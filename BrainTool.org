@@ -1,0 +1,244 @@
+#+PROPERTY: BTCohort 2000-5000
+#+PROPERTY: BTVersion 81
+#+PROPERTY: BTGroupingMode TABGROUP
+#+PROPERTY: BTFavicons ON
+#+PROPERTY: BTTheme DARK
+#+PROPERTY: BTManagerHome PANEL
+#+PROPERTY: BTGDriveConnected false
+#+PROPERTY: BTLastBookmarkImport 10/16/23 19&#8759;40
+* 📝 Scratch
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+Pages that you save without a Topic will be filed under Scratch
+
+** [[https://openscad.org/][OpenSCAD - The Programmers Solid 3D CAD Modeller]]
+text based CAD software
+
+* PROJECTS
+
+** Switching PKM to obsidian
+
+*** Tasks
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** Import all stuff into obsidian
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+https://todoist.com/showTask?id=7323612399
+
+***** [[https://github.com/lxander42/PKM][lxander42/PKM: My personal knowledge management system]]
+
+***** [[https://www.youtube.com/watch?v=AatZl1Z_n-g][(8) Building a USEFUL Dashboard in Obsidian - YouTube]]
+Dashboard
+
+***** [[https://github.com/GitJournal/GitJournal][GitHub - GitJournal/GitJournal: Mobile first Note Taking integrated with Git]]
+for use on mobile syncing notes
+
+***** [[https://help.obsidian.md/Plugins/Importer][Importer - Obsidian Help]]
+
+***** [[https://www.youtube.com/watch?v=nJ660t5ku9A][(8) Rethinking MY PKM: How I Organize Everything In Obsidian - YouTube]]
+
+* AREAS
+
+** HEALTH
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** [[https://dashboard.fit3d.com/wellness][Fit3D | Visualize a Healthier You]]
+
+*** [[https://www.fitbit.com/][Fitbit Dashboard]]
+
+** PRODUCTIVITY
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** [[https://todoist.com/app/project/2291531883][todoist]]
+
+*** [[https://www.instapaper.com/u][Instapaper]]
+
+*** [[https://zapier.com/app/dashboard][Zapier]]
+
+*** [[https://www.google.com/search?q=see+all+desktops+windows+10&rlz=1C1ONGR_enUS983US983&oq=see+all+desktops+&aqs=chrome.0.0i512l2j69i57j0i512l2j0i22i30l5.2950j0j7&sourceid=chrome&ie=UTF-8][see all desktops windows 10 - Google Search]]
+
+** FINANCE
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** Banking
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://secure07a.chase.com/web/auth/dashboard#/dashboard/overviewAccounts/overview/index][Sign in - chase.com]]
+
+**** [[https://www.wellsfargo.com/?wdr=1][Wells Fargo Bank | Financial Services & Online Banking]]
+
+**** [[https://global.americanexpress.com/dashboard][American Express - Dashboard]]
+
+**** [[https://card.apple.com/][Apple Card]]
+
+*** Crypto
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://game.defikingdoms.com/#/][Defi Kingdom]]
+
+**** [[https://viper.exchange/#/pool][ViperSwap]]
+
+**** [[https://app.farmersonly.fi/][FarmersOnlyFi | FOX - FOX]]
+
+**** [[https://www.kraken.com/u/instant][Kraken | Buy, Sell and Margin Trade Bitcoin (BTC) and Ethereum (ETH)]]
+
+**** [[https://www.binance.us/en/markets][Buy and Sell Bitcoin, Ethereum, and other Cryptocurrency | Binance US]]
+
+** GAMING
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** MTG
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://deckbox.org/sets/3144194][loganpalexander's Inventory - Deckbox]]
+
+**** [[https://archidekt.com/decks/sandbox][Sandbox (no save) - Archidekt]]
+
+** CODING
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** [[https://codebeautify.org/html-to-markdown][HTML to Markdown Converter]]
+
+** TRADING
+TRADING
+
+
+*** [[https://finviz.com/screener.ashx?v=211&f=sh_float_u50,sh_price_u20,sh_relvol_o2,ta_gap_u10&ft=4&o=-change][Stock Screener - Charts u50 u20 o2 u10 change]]
+
+*** [[https://www.youtube.com/@DaytradeWarrior/videos][(9) Warrior Trading - YouTube]]
+
+*** [[https://www.tradingview.com/screener/][Stock Screener: Search and Filter Stocks — TradingView]]
+
+* RESOURCES
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+** AI
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** [[https://beta.openai.com/dashboard][OpenAI API]]
+
+** OPEN SOURCE SOFTWARE
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** CAD
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://freefem.org/gallery/roots][FreeFEM - Water and nutrient uptake by plant roots]]
+
+**** [[https://www.freecadweb.org/][FreeCAD: Your own 3D parametric modeler]]
+
+* ARCHIVE
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+** OSREVENGE
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** Website
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://account.godaddy.com/products][Products]]
+
+** AMAZON BUSINESS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** Tools
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://app.meliopayments.com/orgs/1154429/bills?status=unpaid&sorting=payment.status,dueDate&start=0&limit=20][Melio]]
+
+**** [[https://barcode.tec-it.com/en/EAN13?data=9780984999309][Free Online Barcode Generator: EAN-13]]
+
+**** [[https://app.tacticalarbitrage.com/dashboard][TA: Dashboard]]
+
+**** [[https://scout.inventorylab.com/scout/index][InventoryLab - Scout]]
+
+**** [[https://sellercentral.amazon.com/hz/approvalrequest/approve?input-value=80bf50e6-afe5-57ca-7692-d6f11ce30cb3&input-type=applicationId&application-id=80bf50e6-afe5-57ca-7692-d6f11ce30cb3][Does your account qualify?]]
+
+**** [[https://sas.selleramp.com/sas/index][SAS - Sourcing Analysis Simplified]]
+
+**** [[https://docs.google.com/spreadsheets/d/1Wi8sLr_jnaJ0n94v5y3j76GLriMODf2UQIVW6Ct0iHg/edit#gid=0][SAS Buy Sheet - Google Sheets]]
+
+**** [[https://my.1password.com/signin?l=en][1Password — Password Manager for Teams, Businesses, and Families]]
+
+**** [[https://refundsmanager.com/thankyou.html#][amazon FBA reports]]
+
+**** [[https://dnt.abine.com/#/emails][Blur]]
+
+**** [[https://docs.google.com/spreadsheets/d/1lvlHApmEEFq5g4TPP6fy40SHQwwqNzSVQzFhxlY0pE0/edit#gid=0][Logan - - Google Sheets]]
+
+**** [[https://customers.refundsniper.com/][Refund Sniper]]
+
+*** Wholesale sites
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://www.bbcw.com/?target=register][BBCW]]
+
+**** [[https://ctwhomecollection.com/create_login_and_account.asp?confirm=1][CTW Home Collection]]
+
+**** [[https://wholesale.frontiercoop.com/][Wholesale Homepage | Wholesale]]
+
+**** [[https://www.eedistribution.com/][EE Distribution : Wholesale Distributor of Action Figures, Toys & Gifts]]
+
+**** [[https://888lots.com/][Liquidation Sales, Wholesale Closeout Deals | 888 Lots]]
+
+*** AmazonFBA
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://app.inventorylab.com/settings/notifications][InventoryLab - Notifications]]
+
+**** [[https://sellercentral.amazon.com/product-search?ref=xx_addlisting_dnav_xx&returnFromLogin=1&][Amazon seller central]]
+
+**** [[https://mc.bqool.com/repricing/amazonus][Repricing - Manage Listings]]
+
+**** [[https://www.cashbackmonitor.com/my-monitor/][My Monitor: Cashback Monitor]]
+
+**** [[https://onlineservices.cdtfa.ca.gov/_/#21][CDTFA Online Services]]
+
+**** [[https://outlook.office.com/mail/inbox/id/AAQkADhiMDQ3NDU3LWU4NDQtNDZiNC1iZjM4LTBmNzM5ODExNDg2ZQAQAJNWP6%2BSPUIriIioqZc%2Fp%2F0%3D][Mail - Logan Alexander - Outlook]]
+
+**** [[https://app.clickup.com/8516223/dashboards/83wkz-120][DAILIES | Logan Alexander's Workspace]]
+
+**** [[https://mail.google.com/mail/u/0/#label/Business%2FBusiness+invoices+(closed)]["Business/Business invoices (closed)" - loganpalexander@gmail.com - Gmail]]
