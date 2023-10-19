@@ -42,6 +42,75 @@ for use on mobile syncing notes
 
 ***** [[https://www.youtube.com/watch?v=nJ660t5ku9A][(8) Rethinking MY PKM: How I Organize Everything In Obsidian - YouTube]]
 
+** PPL95 - COOLING STATION
+
+*** Tasks
+
+**** TODO Propose a design for CTS chamber and liner, mock up cad
+
+***** [[https://pdtccaeas01.fremont.lamrc.net:3000/#/com.siemens.splm.clientfx.tcui.xrt.showObject?uid=3GdMfcLdIaUMKC][252-A66974-002; LYT,SYS,USER DEV,CTS - 252-A66974-002; LYT,SYS,USER DEV,CTS]]
+
+***** [[https://techinfo.mylam.com/portal/group/mylam/contenttyperesults][Kiyo GX myLam]]
+
+***** [[https://lamresearch-my.sharepoint.com/:p:/r/personal/logan_alexander_lamresearch_com/_layouts/15/Doc.aspx?sourcedoc=%7B61A5BE8A-5D5D-4129-B87E-C774A8E1B34F%7D&file=Kiyo%20Family%20Kiyo-KiyoGX%20Rev.1_JPN_20200713.pptx&nav=eyJzSWQiOjM4NzIsImNJZCI6Mjg1MDQ5NzYyMn0&action=edit&mobileredirect=true][Kiyo Family Kiyo-KiyoGX Rev.1_JPN_20200713.pptx]]
+
+***** [[https://pdtccaeas01.fremont.lamrc.net:3000/#/com.siemens.splm.clientfx.tcui.xrt.showObject?uid=zLJsNKnAIaUMKC][571-800096-830; ASSY,PM 2300 KIYO GX - TC]]
+
+***** [[https://lamresearch-my.sharepoint.com/personal/logan_alexander_lamresearch_com/_layouts/15/Doc.aspx?sourcedoc={75474994-bf69-4e22-95e6-c082eaa135ad}&action=edit&wd=target%281.%20PROJECTS%2FPPL95%20-%20COOLING%20STATION.one%7C4a4053cd-7b91-4fbf-a4d7-a342e3f7ebd8%2FChamber%20liner%20Brainstorm%7C11a71b5b-d953-4b09-8e21-b209e5664a86%2F%29&wdorigin=NavigationUrl][Logan @ Lam Research]]
+
+**** TODO Get pump curves for typical pump that is used on ICS, try to extrapolate that for what we need for CTS.
+
+**** TODO Put in modeling report request for ICS baseline pumping
+
+** PPL31 - Insitu Plasma
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** TASKS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** DONE Check RF Bracket Drawing
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+***** [[https://lamresearch.quickbase.com/db/bgmh64wg7?a=er&rid=41755&rl=ctey][Fremont Pilot Operations - Edit Issue #41755]]
+
+***** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Change+Action/CA-0308550/-?objectId=34064.31666.46186.37613&embed=false][Change Action CA-0308550:-]]
+
+***** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/839-A14667-006/B][Part 839-A14667-006:B]]
+
+***** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/839-A14667-007/A?objectId=34064.31666.26813.6584][Part 839-A14667-007:A]]
+
+**** DONE Review new top plate PN
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+***** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/715-A10365-007/C][Part 715-A10365-007:C]]
+
+***** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/715-A10365-007/D?objectId=34064.31666.8470.63067][Part 715-A10365-007:D]]
+
+**** TODO Check Aether GP panels
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+***** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/714-A38182-001/C?objectId=34064.31666.19360.19052&embed=false][Part 714-A38182-001:C]]
+
+***** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/714-A38182-006/A?objectId=34064.31666.26824.31042][Part 714-A38182-006:A]]
+
+***** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/714-A38177-001/B][Part 714-A38177-001:B]]
+
+***** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/714-A38177-006/A?objectId=34064.31666.26825.47637][Part 714-A38177-006:A]]
+
+***** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Change+Action/CA-0308051/-?embed=false&objectId=34064.31666.22001.61698][Change Action CA-0308051:-]]
+
+** PPL59 - EPL198 Top plate cleanup
+
 * AREAS
 
 ** HEALTH
@@ -70,6 +139,8 @@ for use on mobile syncing notes
   :PROPERTIES:
   :VISIBILITY: folded
   :END:
+
+*** [[https://workplaceservices.fidelity.com/mybenefits/navstation/navigation][Fidelity NetBenefits Homepage]]
 
 *** Banking
   :PROPERTIES:
@@ -134,6 +205,203 @@ TRADING
   :PROPERTIES:
   :VISIBILITY: folded
   :END:
+
+** AETHER LINKS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** [[https://lamresearch.quickbase.com/db/bqx6mdet3][Aether PPL - Default Dashboard]]
+
+*** [[https://lamresearch.sharepoint.com/sites/Aether_Hardware_Team][Aether Hardware Team - Home]]
+
+*** [[https://lamresearch.sharepoint.com/sites/ATD-PDR-AetherTeam][ATD-PDR-Aether - Home]]
+
+*** [[https://lamresearch.sharepoint.com/sites/Aether_Hardware_Team/Lists/Aether%20HW%20Team%20Calendar/calendar.aspx][Aether HW Team Calendar - Calendar]]
+
+*** [[https://lamresearch.sharepoint.com/sites/ext_WatlowAether?e=1%3Afb1582c8a36f4c23aa1b6a6d2af2c7b2][WatlowAether Extranet - Home]]
+
+** DPG
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** [[https://lamresearch.sharepoint.com/sites/DPG_EngineeringTeam/SitePages/Design-Review-Template.aspx?source=https://lamresearch.sharepoint.com/sites/DPG_EngineeringTeam&xsdata=MDV8MDF8fGUxMDhkZDFhMjBiMzQ4NDE3YjdlMDhkYjllYWJhMjk2fDkxODA3OWRiYzkwMjRlMjliMjJjOTc2NDQxMGQwMzc1fDB8MHw2MzgyNzgyMzIyMDc0MjQzODJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPbTFsWlhScGJtZGZXVEpOTTFsNlNtdE5SMWwwVDFSb2FrOURNREJPVjFKcFRGUnJNbGxVWTNSTlIxbDVXVzFSZVU5SFJtMU5ha2w2UUhSb2NtVmhaQzUyTWk5dFpYTnpZV2RsY3k4eE5qa3lNakkyTkRFNU5EVTF8ZjlmNGQ4ZjFkMWY2NGRkZjdiN2UwOGRiOWVhYmEyOTZ8ZWQwOWVjODA3ZDk2NDQwNWJjN2IwMWQ5NTA4NjM0YTc%3D&sdata=T2hGdWRnTmUxR3hTN0w0dWNOM3craWp1Ym9KV0ZONEFoSHdIZDcvQ0U5VT0%3D&ovuser=918079db-c902-4e29-b22c-9764410d0375%2CLogan.Alexander%40lamresearch.com&OR=Teams-HL&CT=1692804853371&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA3MDMwNzM0NiIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D][DPG Design Review Template Update]]
+
+*** [[https://lamresearch.sharepoint.com/sites/DPG_EngineeringTeam][DPG Engineering - Home]]
+
+*** [[https://lamresearch.sharepoint.com/sites/DPGEngineering-DPGWiki/SitePages/DPG-Engineering-Wiki-Home.aspx][DPG Engineering Wiki Home]]
+
+** EXCEL TOOLS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** [[https://thepoint.lamrc.net/dept/EngPortal/DDS-2000/][DDS-2000]]
+
+** EPG
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** [[https://sharepoint.lamrc.net/dept/EPG/Eng/default.aspx][Home - Etch Engineering]]
+
+** LAM LINKS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** [[https://thepoint.lamrc.net/Pages/default.aspx#][The Point]]
+
+*** [[https://secure.optumfinancial.com/portal/CC?rnd=1661187412382][Optum Financial Health pay]]
+
+*** [[https://thepoint.lamrc.net/dept/CorpTravel/CafeServices/Pages/default.aspx][Café Services Overview]]
+
+** LAB OPS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** [[https://lab360.fremont.lamrc.net/Dashboard.aspx][LAB360 - Lam Research Corporation]]
+
+*** [[https://lamresearch.sharepoint.com/:x:/r/sites/Aether_Hardware_Team/_layouts/15/Doc.aspx?sourcedoc=%7B2A4C41DD-7118-40B1-8857-83BDED9E7AC5%7D&file=Tool%20HW%20Changes%20Tracker.xlsx&wdLOR=c420C0216-072D-4490-A760-42EC9D2A8B2E&action=default&mobileredirect=true&cid=be819bfc-5988-43dc-9ca2-634fb70382c5][Tool HW Changes Tracker.xlsx]]
+
+** PART ORDERING AND LOGISTICS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** [[https://apps.powerapps.com/play/e/7b81d53e-762e-4084-83c7-425d31b78fc1/a/98e8af26-65a3-45b9-a311-1cb00da7d776?tenantId=918079db-c902-4e29-b22c-9764410d0375][ERF 3.0]]
+
+*** [[https://apps.powerapps.com/play/e/7b81d53e-762e-4084-83c7-425d31b78fc1/a/dcc4f16d-de3d-420e-9be2-880887c8d3fe?tenantId=918079db-c902-4e29-b22c-9764410d0375][VirtualWarehouse - Power Apps]]
+
+*** [[https://parts-lamrc.visium.io/administration/items/3a76d8a6-14d4-4428-aeb5-bca3b714f671][VISIUM - Asset management and tracking]]
+
+*** [[https://s1.ariba.com/Buyer/Main/aw?awh=r&awssk=01sosls9&realm=mylam&dard=1#b0][Ariba Spend Management]]
+
+** PART LOOKUP
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/p/lrc/helium/iPLMHomepage][iPLM]]
+
+*** [[https://kmmatrix.fremont.lamrc.net//][KM Matrix]]
+
+** PILOT
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** [[https://lamresearch.quickbase.com/db/bgmh64wg7?a=q&qid=1001379][Fremont Pilot Operations - Logans open items]]
+
+** PROCESS MODULE LOOKUP
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** [[https://techinfo.mylam.com/portal/group/mylam/contenttyperesults?ctype=3DSPI][3DSPI]]
+
+*** [[https://techinfo.mylam.com/portal/#bulb][Home - MyLam]]
+
+** ROUTINES
+
+*** morning organization
+
+**** [[https://mail.google.com/mail/u/0/#inbox][Inbox (37) - loganpalexander@gmail.com - Gmail]]
+
+**** [[https://lamresearch-my.sharepoint.com/personal/logan_alexander_lamresearch_com/_layouts/15/Doc.aspx?sourcedoc={75474994-bf69-4e22-95e6-c082eaa135ad}&action=edit&wd=target%283.%20RESOURCES%2FROUTINES.one%7C0f9e236d-a498-4d44-a5ab-5c6efb6e4fb4%2FMorning%20Organization%7C692592ca-4799-4f7b-958c-83a395143ea7%2F%29&wdorigin=NavigationUrl][Morning Organization checklist]]
+
+**** [[https://calendar.google.com/calendar/u/0/r][Google Calendar - Week of October 15, 2023]]
+
+**** [[https://open.spotify.com/playlist/2RHfgparZ8PzI4tJnYtVof][ADHD Techno Focus - Full Concentration - playlist by Vinicius Gallotti | Spotify]]
+
+*** Daily Shutdown
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://lamresearch-my.sharepoint.com/personal/logan_alexander_lamresearch_com/_layouts/15/Doc.aspx?sourcedoc={75474994-bf69-4e22-95e6-c082eaa135ad}&action=edit&wd=target%283.%20RESOURCES%2FWEEKLY%20UPDATES.one%7Cc7baf8e4-cb61-4abf-984d-ded25c1f1dac%2FWeekly%20Update%20Template%7Cc46dc23f-035e-4ef4-a170-3fe4c98fd31c%2F%29&wdorigin=NavigationUrl][Weekly updates]]
+
+**** [[https://todoist.com/app/activity?userId=39601082&eventType=item%3Acompleted][Completed tasks]]
+
+**** [[https://lamresearch-my.sharepoint.com/personal/logan_alexander_lamresearch_com/_layouts/15/Doc.aspx?sourcedoc={75474994-bf69-4e22-95e6-c082eaa135ad}&action=edit&wd=target%283.%20RESOURCES%2FROUTINES.one%7C0f9e236d-a498-4d44-a5ab-5c6efb6e4fb4%2FDaily%20Shutdown%7C1ef2e22b-7810-4bbb-ac52-2a03fc2edd29%2F%29&wdorigin=NavigationUrl][Daily shutdown Checklist]]
+
+*** weekly routine
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://lamresearch.quickbase.com/db/bqx6mdexb?a=dr&r=e5&rl=cukb][Aether PPL - EPL #155]]
+
+**** [[https://lamresearch.quickbase.com/db/bqx6mdexb?a=er&rid=198&rl=dpny][Aether PPL - Edit EPL #198]]
+
+**** [[https://lamresearch.quickbase.com/db/bqx6mdexb?a=er&rid=155&rl=cukb][Aether PPL - Edit EPL #155]]
+
+**** [[https://lamresearch.quickbase.com/db/bqx6mdevt?a=er&rid=31&rl=cuud][Aether PPL - Edit Project #31]]
+
+**** [[https://lamresearch.quickbase.com/db/bqx6mdevt?a=er&rid=95&rl=emba][Aether PPL - Edit Project #95]]
+
+**** [[https://lamresearch-my.sharepoint.com/personal/logan_alexander_lamresearch_com/_layouts/15/Doc.aspx?sourcedoc={75474994-bf69-4e22-95e6-c082eaa135ad}&action=edit&wd=target%283.%20RESOURCES%2FROUTINES.one%7C0f9e236d-a498-4d44-a5ab-5c6efb6e4fb4%2FWeekly%20Updates%7Cc2cec6af-6eb6-40a4-a08a-376ee83a698d%2F%29&wdorigin=NavigationUrl][Logan @ Lam Research]]
+
+**** [[https://lamresearch.sharepoint.com/:x:/r/sites/Aether_Hardware_Team/_layouts/15/Doc.aspx?sourcedoc=%7B35CC56FE-99F0-4A21-9899-E4FD595021AE%7D&file=Weekly%20Report%20Master%202023.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1][Weekly Report Master 2023.xlsx]]
+
+*** MORNING RESET
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://www.youtube.com/watch?v=1yQX1y7zMAg][(9) Leaves on a Stream Meditation - YouTube]]
+
+*** FOCUS TIME
+
+**** [[https://open.spotify.com/playlist/2RHfgparZ8PzI4tJnYtVof][ADHD Techno Focus - Full Concentration - playlist by Vinicius Gallotti | Spotify]]
+
+** SOFTWARE
+
+*** [[https://sharepoint.lamrc.net/dept/gpg/CE/CAE/default.aspx][Home - CAE Services]]
+
+*** CAD MODELING
+
+**** [[https://docs.sw.siemens.com/en-US/doc/209349590/PL20200522120320484.assemblies/arrangements_arrange_dialog][Arrangements in NX]]
+
+** STANDARDS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** DRAFTING
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://lamresearch.sharepoint.com/:p:/r/sites/DPGEngineering-DPGWiki/_layouts/15/Doc.aspx?sourcedoc=%7B6E7C9329-82D1-4874-A285-F75AAEC48679%7D&file=DPG_Mechanical%20Drawing%20Review%20-%20Common%20Issues.pptx&action=edit&mobileredirect=true][DPG_Mechanical Drawing Review - Common Issues.pptx]]
+
+**** [[https://lamresearch.sharepoint.com/sites/DPGEngineering-DPGWiki/SitePages//Drawing%20Review%20(DQC).aspx][DPG Engineering-DPG Wiki - Drawing Review (DQC)]]
+
+**** [[https://lamresearch-my.sharepoint.com/personal/logan_alexander_lamresearch_com/_layouts/15/Doc.aspx?sourcedoc={75474994-bf69-4e22-95e6-c082eaa135ad}&action=edit&wd=target%282.%20AREAS%2FMECHANICAL%20ENGINEERING.one%7Ca4f796ee-5d66-405c-b52f-ada93430286c%2FDrawing%20Checklist%7C20a92ccf-a885-4808-aba9-d7cbe853c649%2F%29&wdorigin=NavigationUrl][Logan @ Lam Research]]
+
+**** [[https://lamresearch.sharepoint.com/:w:/r/sites/SIP-eDMSTeam/_layouts/15/Doc.aspx?sourcedoc=%7Bc60b8bb2-8bf5-4e1d-bd09-f12d935c262b%7D&action=default&mobileredirect=true][DPG70329.docx]]
+
+**** [[https://sharepoint.lamrc.net/dept/EPG/Eng/NPI/BKM_Community/ETCH_10112.pdf#search=ETCH%5F10112][Mechanical Drafting handbook]]
+
+*** [[https://lamresearch.sharepoint.com/sites/SIP-eDMSTeam][SIP-eDMS Team - Home]]
+
+*** CAD MODELING
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://lamresearch.sharepoint.com/:w:/r/sites/SIP-eDMSTeam/_layouts/15/Doc.aspx?sourcedoc=%7B6e7c5f41-549c-4908-ab40-6d92b4d50aea%7D&action=default&mobileredirect=true][CAD70039.docx]]
+
+** SUPPLIERS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** [[https://sharepoint.lamrc.net/dept/GSCM/SourcingMatrix/SitePages/Home.aspx][Sourcing Matrix - Home]]
+
+*** [[https://sharepoint.lamrc.net/dept/GSCM/SMT/default.aspx][Home - SQAD Home]]
 
 ** AI
   :PROPERTIES:
