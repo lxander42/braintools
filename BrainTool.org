@@ -1,11 +1,7 @@
-#+PROPERTY: BTCohort 2000-5000
-#+PROPERTY: BTVersion 81
-#+PROPERTY: BTGroupingMode TABGROUP
-#+PROPERTY: BTFavicons ON
-#+PROPERTY: BTTheme DARK
-#+PROPERTY: BTManagerHome PANEL
+#+PROPERTY: BTFavicons OFF
+#+PROPERTY: BTTheme LIGHT
 #+PROPERTY: BTGDriveConnected false
-#+PROPERTY: BTLastBookmarkImport 10/16/23 19&#8759;40
+#+PROPERTY: BTVersion 62
 * 📝 Scratch
   :PROPERTIES:
   :VISIBILITY: folded
@@ -16,15 +12,21 @@ Pages that you save without a Topic will be filed under Scratch
 text based CAD software
 
 * PROJECTS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 ** Switching PKM to obsidian
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** Tasks
   :PROPERTIES:
   :VISIBILITY: folded
   :END:
 
-**** Import all stuff into obsidian
+**** TODO Import all stuff into obsidian
   :PROPERTIES:
   :VISIBILITY: folded
   :END:
@@ -43,6 +45,9 @@ for use on mobile syncing notes
 ***** [[https://www.youtube.com/watch?v=nJ660t5ku9A][(8) Rethinking MY PKM: How I Organize Everything In Obsidian - YouTube]]
 
 ** PPL95 - COOLING STATION
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** Tasks
 
@@ -112,6 +117,9 @@ for use on mobile syncing notes
 ** PPL59 - EPL198 Top plate cleanup
 
 * AREAS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 ** HEALTH
   :PROPERTIES:
@@ -140,9 +148,7 @@ for use on mobile syncing notes
   :VISIBILITY: folded
   :END:
 
-*** [[https://workplaceservices.fidelity.com/mybenefits/navstation/navigation][Fidelity NetBenefits Homepage]]
-
-*** Banking
+*** BANKING
   :PROPERTIES:
   :VISIBILITY: folded
   :END:
@@ -155,7 +161,7 @@ for use on mobile syncing notes
 
 **** [[https://card.apple.com/][Apple Card]]
 
-*** Crypto
+*** CRYPTO
   :PROPERTIES:
   :VISIBILITY: folded
   :END:
@@ -169,6 +175,13 @@ for use on mobile syncing notes
 **** [[https://www.kraken.com/u/instant][Kraken | Buy, Sell and Margin Trade Bitcoin (BTC) and Ethereum (ETH)]]
 
 **** [[https://www.binance.us/en/markets][Buy and Sell Bitcoin, Ethereum, and other Cryptocurrency | Binance US]]
+
+*** INVESTMENTS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://workplaceservices.fidelity.com/mybenefits/navstation/navigation][Fidelity NetBenefits Homepage]]
 
 ** GAMING
   :PROPERTIES:
@@ -193,7 +206,6 @@ for use on mobile syncing notes
 
 ** TRADING
 TRADING
-
 
 *** [[https://finviz.com/screener.ashx?v=211&f=sh_float_u50,sh_price_u20,sh_relvol_o2,ta_gap_u10&ft=4&o=-change][Stock Screener - Charts u50 u20 o2 u10 change]]
 
@@ -232,6 +244,13 @@ TRADING
 
 *** [[https://lamresearch.sharepoint.com/sites/DPGEngineering-DPGWiki/SitePages/DPG-Engineering-Wiki-Home.aspx][DPG Engineering Wiki Home]]
 
+** AI
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** [[https://beta.openai.com/dashboard][OpenAI API]]
+
 ** EXCEL TOOLS
   :PROPERTIES:
   :VISIBILITY: folded
@@ -265,6 +284,20 @@ TRADING
 *** [[https://lab360.fremont.lamrc.net/Dashboard.aspx][LAB360 - Lam Research Corporation]]
 
 *** [[https://lamresearch.sharepoint.com/:x:/r/sites/Aether_Hardware_Team/_layouts/15/Doc.aspx?sourcedoc=%7B2A4C41DD-7118-40B1-8857-83BDED9E7AC5%7D&file=Tool%20HW%20Changes%20Tracker.xlsx&wdLOR=c420C0216-072D-4490-A760-42EC9D2A8B2E&action=default&mobileredirect=true&cid=be819bfc-5988-43dc-9ca2-634fb70382c5][Tool HW Changes Tracker.xlsx]]
+
+** OPEN SOURCE SOFTWARE
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** CAD
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://freefem.org/gallery/roots][FreeFEM - Water and nutrient uptake by plant roots]]
+
+**** [[https://www.freecadweb.org/][FreeCAD: Your own 3D parametric modeler]]
 
 ** PART ORDERING AND LOGISTICS
   :PROPERTIES:
@@ -305,6 +338,9 @@ TRADING
 *** [[https://techinfo.mylam.com/portal/#bulb][Home - MyLam]]
 
 ** ROUTINES
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** morning organization
 
@@ -358,6 +394,9 @@ TRADING
 **** [[https://open.spotify.com/playlist/2RHfgparZ8PzI4tJnYtVof][ADHD Techno Focus - Full Concentration - playlist by Vinicius Gallotti | Spotify]]
 
 ** SOFTWARE
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** [[https://sharepoint.lamrc.net/dept/gpg/CE/CAE/default.aspx][Home - CAE Services]]
 
@@ -402,27 +441,6 @@ TRADING
 *** [[https://sharepoint.lamrc.net/dept/GSCM/SourcingMatrix/SitePages/Home.aspx][Sourcing Matrix - Home]]
 
 *** [[https://sharepoint.lamrc.net/dept/GSCM/SMT/default.aspx][Home - SQAD Home]]
-
-** AI
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
-
-*** [[https://beta.openai.com/dashboard][OpenAI API]]
-
-** OPEN SOURCE SOFTWARE
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
-
-*** CAD
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
-
-**** [[https://freefem.org/gallery/roots][FreeFEM - Water and nutrient uptake by plant roots]]
-
-**** [[https://www.freecadweb.org/][FreeCAD: Your own 3D parametric modeler]]
 
 * ARCHIVE
   :PROPERTIES:
