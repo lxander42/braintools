@@ -1,15 +1,8 @@
 #+PROPERTY: BTFavicons OFF
 #+PROPERTY: BTTheme DARK
-#+PROPERTY: BTGDriveConnected false
-#+PROPERTY: BTVersion 7
+#+PROPERTY: BTVersion 89
 * 📝 Scratch
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 Pages that you save without a Topic will be filed under Scratch
-
-** [[https://openscad.org/][OpenSCAD - The Programmers Solid 3D CAD Modeller]]
-text based CAD software
 
 * PROJECTS
   :PROPERTIES:
@@ -77,28 +70,6 @@ for use on mobile syncing notes
   :VISIBILITY: folded
   :END:
 
-**** DONE Check RF Bracket Drawing
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
-
-***** [[https://lamresearch.quickbase.com/db/bgmh64wg7?a=er&rid=41755&rl=ctey][Fremont Pilot Operations - Edit Issue #41755]]
-
-***** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Change+Action/CA-0308550/-?objectId=34064.31666.46186.37613&embed=false][Change Action CA-0308550:-]]
-
-***** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/839-A14667-006/B][Part 839-A14667-006:B]]
-
-***** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/839-A14667-007/A?objectId=34064.31666.26813.6584][Part 839-A14667-007:A]]
-
-**** DONE Review new top plate PN
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
-
-***** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/715-A10365-007/C][Part 715-A10365-007:C]]
-
-***** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/715-A10365-007/D?objectId=34064.31666.8470.63067][Part 715-A10365-007:D]]
-
 **** TODO Check Aether GP panels
   :PROPERTIES:
   :VISIBILITY: folded
@@ -114,9 +85,54 @@ for use on mobile syncing notes
 
 ***** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Change+Action/CA-0308051/-?embed=false&objectId=34064.31666.22001.61698][Change Action CA-0308051:-]]
 
+**** TASK ARCHIVE
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+***** DONE Check RF Bracket Drawing
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+****** [[https://lamresearch.quickbase.com/db/bgmh64wg7?a=er&rid=41755&rl=ctey][Fremont Pilot Operations - Edit Issue #41755]]
+
+****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Change+Action/CA-0308550/-?objectId=34064.31666.46186.37613&embed=false][Change Action CA-0308550:-]]
+
+****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/839-A14667-006/B][Part 839-A14667-006:B]]
+
+****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/839-A14667-007/A?objectId=34064.31666.26813.6584][Part 839-A14667-007:A]]
+
+***** DONE Review new top plate PN
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/715-A10365-007/C][Part 715-A10365-007:C]]
+
+****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/715-A10365-007/D?objectId=34064.31666.8470.63067][Part 715-A10365-007:D]]
+
+***** DONE approve CA-0308582 for divert valve mounting brackets
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/714-A12966-003/B?objectId=34064.31666.46186.63408][Part 714-A12966-003:B]]
+
+****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/714-A12966-003/A?objectId=34064.31666.2647.8051][Part 714-A12966-003:A]]
+
+****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/714-A12966-004/B?objectId=34064.31666.46186.65356][Part 714-A12966-004:B]]
+
+****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/714-A12966-004/A?objectId=34064.31666.8762.31904][Part 714-A12966-004:A]]
+
+****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Change+Action/CA-0308582/-?objectId=34064.31666.46187.4942][Change Action CA-0308582:-]]
+
 ** PPL59 - EPL198 Top plate cleanup
 
 * AREAS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 ** HEALTH
   :PROPERTIES:
@@ -141,9 +157,6 @@ for use on mobile syncing notes
 *** [[https://www.google.com/search?q=see+all+desktops+windows+10&rlz=1C1ONGR_enUS983US983&oq=see+all+desktops+&aqs=chrome.0.0i512l2j69i57j0i512l2j0i22i30l5.2950j0j7&sourceid=chrome&ie=UTF-8][see all desktops windows 10 - Google Search]]
 
 ** FINANCE
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 *** BANKING
   :PROPERTIES:
@@ -179,6 +192,16 @@ for use on mobile syncing notes
   :END:
 
 **** [[https://workplaceservices.fidelity.com/mybenefits/navstation/navigation][Fidelity NetBenefits Homepage]]
+
+*** BUDGETING
+
+**** [[https://app.ynab.com/4053b346-abb8-44f0-bc72-e91be1921048/budget][Budget | Logan's 2023 Restart | YNAB]]
+
+**** [[https://secure26ea.chase.com/web/auth/dashboard#/dashboard/overview][Accounts - chase.com]]
+
+**** [[https://www.amazon.com/gp/css/order-history?ref_=nav_AccountFlyout_orders][Your Orders]]
+
+**** [[https://connect.secure.wellsfargo.com/accounts/inquiry/summary/home/default?_x=K5r8PLCRzrAOjcvLkGqN3-CoOi5S8kV9#/accounts/home/accountsummary][Account Summary - Wells Fargo]]
 
 ** GAMING
   :PROPERTIES:
@@ -340,6 +363,9 @@ TRADING
   :END:
 
 *** morning organization
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 **** [[https://mail.google.com/mail/u/0/#inbox][Inbox (37) - loganpalexander@gmail.com - Gmail]]
 
@@ -387,6 +413,9 @@ TRADING
 **** [[https://www.youtube.com/watch?v=1yQX1y7zMAg][(9) Leaves on a Stream Meditation - YouTube]]
 
 *** FOCUS TIME
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 **** [[https://open.spotify.com/playlist/2RHfgparZ8PzI4tJnYtVof][ADHD Techno Focus - Full Concentration - playlist by Vinicius Gallotti | Spotify]]
 
@@ -525,3 +554,6 @@ TRADING
 **** [[https://app.clickup.com/8516223/dashboards/83wkz-120][DAILIES | Logan Alexander's Workspace]]
 
 **** [[https://mail.google.com/mail/u/0/#label/Business%2FBusiness+invoices+(closed)]["Business/Business invoices (closed)" - loganpalexander@gmail.com - Gmail]]
+
+* [[https://openscad.org/][OpenSCAD - The Programmers Solid 3D CAD Modeller]]
+text based CAD software
