@@ -1,7 +1,7 @@
 #+PROPERTY: BTFavicons OFF
-#+PROPERTY: BTTheme LIGHT
+#+PROPERTY: BTTheme DARK
 #+PROPERTY: BTGDriveConnected false
-#+PROPERTY: BTVersion 62
+#+PROPERTY: BTVersion 7
 * 📝 Scratch
   :PROPERTIES:
   :VISIBILITY: folded
@@ -117,9 +117,6 @@ for use on mobile syncing notes
 ** PPL59 - EPL198 Top plate cleanup
 
 * AREAS
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 ** HEALTH
   :PROPERTIES:
