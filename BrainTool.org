@@ -1,13 +1,10 @@
 #+PROPERTY: BTFavicons OFF
-#+PROPERTY: BTTheme DARK
-#+PROPERTY: BTVersion 89
+#+PROPERTY: BTTheme LIGHT
+#+PROPERTY: BTVersion 48
 * 📝 Scratch
 Pages that you save without a Topic will be filed under Scratch
 
 * PROJECTS
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 ** Switching PKM to obsidian
   :PROPERTIES:
@@ -129,6 +126,26 @@ for use on mobile syncing notes
 
 ** PPL59 - EPL198 Top plate cleanup
 
+** FIVERR
+
+*** Milk Jug Holder Project - Fiverr
+
+**** [[https://www.mcmaster.com/9683K28/][Birch Rod, 36" Long, 1-3/4" Diameter | McMaster-Carr]]
+
+**** [[https://www.fiverr.com/orders/FO7230CD5B5C5/activities][Fiverr / Shopping / Status of your order No. FO7230CD5B5C5]]
+
+**** [[https://www.mcmaster.com/90128A274/][Zinc-Plated Alloy Steel Socket Head Screw, M8 x 1.25 mm Thread, 20 mm Long | McMaster-Carr]]
+
+**** [[https://www.mcmaster.com/96505A116/][Steel Oversized Washer, for M8 Screw Size, 8 mm ID, 16 mm OD | McMaster-Carr]]
+
+**** [[https://www.mcmaster.com/products/handle-grips/cut-to-length-grips/od~1-3-4/][McMaster-Carr]]
+
+**** [[https://www.mcmaster.com/95596A610/][Zinc Alloy Tapping Inserts for Softwood, Flanged, M8 x 1.25 mm Thread Size, 20 mm Installed Length | McMaster-Carr]]
+
+**** [[https://www.mcmaster.com/92470A242/][Phillips Rounded Head Screws for Sheet Metal, 18-8 Stainless Steel, Number 10 Size, 1/2" Long | McMaster-Carr]]
+
+**** [[https://www.mcmaster.com/4015A21/][Weather-Resistant Draw Latch, Zinc-Plated-Steel Strike Plate, 14-5/8" Long x 1-7/8" Wide | McMaster-Carr]]
+
 * AREAS
   :PROPERTIES:
   :VISIBILITY: folded
@@ -157,6 +174,9 @@ for use on mobile syncing notes
 *** [[https://www.google.com/search?q=see+all+desktops+windows+10&rlz=1C1ONGR_enUS983US983&oq=see+all+desktops+&aqs=chrome.0.0i512l2j69i57j0i512l2j0i22i30l5.2950j0j7&sourceid=chrome&ie=UTF-8][see all desktops windows 10 - Google Search]]
 
 ** FINANCE
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** BANKING
   :PROPERTIES:
@@ -225,6 +245,9 @@ for use on mobile syncing notes
 *** [[https://codebeautify.org/html-to-markdown][HTML to Markdown Converter]]
 
 ** TRADING
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 TRADING
 
 *** [[https://finviz.com/screener.ashx?v=211&f=sh_float_u50,sh_price_u20,sh_relvol_o2,ta_gap_u10&ft=4&o=-change][Stock Screener - Charts u50 u20 o2 u10 change]]
@@ -234,9 +257,6 @@ TRADING
 *** [[https://www.tradingview.com/screener/][Stock Screener: Search and Filter Stocks — TradingView]]
 
 * RESOURCES
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 ** AETHER LINKS
   :PROPERTIES:
@@ -427,6 +447,12 @@ TRADING
 *** [[https://sharepoint.lamrc.net/dept/gpg/CE/CAE/default.aspx][Home - CAE Services]]
 
 *** CAD MODELING
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://openscad.org/][OpenSCAD - The Programmers Solid 3D CAD Modeller]]
+text based CAD software
 
 **** [[https://docs.sw.siemens.com/en-US/doc/209349590/PL20200522120320484.assemblies/arrangements_arrange_dialog][Arrangements in NX]]
 
@@ -467,6 +493,10 @@ TRADING
 *** [[https://sharepoint.lamrc.net/dept/GSCM/SourcingMatrix/SitePages/Home.aspx][Sourcing Matrix - Home]]
 
 *** [[https://sharepoint.lamrc.net/dept/GSCM/SMT/default.aspx][Home - SQAD Home]]
+
+** VIDEO RECORDING
+
+*** [[https://www.loom.com/looms/videos][Library | Loom]]
 
 * ARCHIVE
   :PROPERTIES:
@@ -554,6 +584,3 @@ TRADING
 **** [[https://app.clickup.com/8516223/dashboards/83wkz-120][DAILIES | Logan Alexander's Workspace]]
 
 **** [[https://mail.google.com/mail/u/0/#label/Business%2FBusiness+invoices+(closed)]["Business/Business invoices (closed)" - loganpalexander@gmail.com - Gmail]]
-
-* [[https://openscad.org/][OpenSCAD - The Programmers Solid 3D CAD Modeller]]
-text based CAD software
