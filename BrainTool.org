@@ -61,9 +61,8 @@ for use on mobile syncing notes
 **** TODO Put in modeling report request for ICS baseline pumping
 
 ** PPL31 - Insitu Plasma
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
+
+*** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/LRC+Design+Workspace/DW-008205/-][Design Workspace DW-008205:-]]
 
 *** TASKS
   :PROPERTIES:
@@ -130,6 +129,9 @@ for use on mobile syncing notes
 ** PPL59 - EPL198 Top plate cleanup
 
 ** FIVERR
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** Milk Jug Holder Project - Fiverr
 
@@ -150,6 +152,9 @@ for use on mobile syncing notes
 **** [[https://www.mcmaster.com/4015A21/][Weather-Resistant Draw Latch, Zinc-Plated-Steel Strike Plate, 14-5/8" Long x 1-7/8" Wide | McMaster-Carr]]
 
 * AREAS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 ** HEALTH
   :PROPERTIES:
@@ -270,9 +275,6 @@ TRADING
 *** [[https://www.karenlin.me/ranker][Task Ranking Tool]]
 
 * RESOURCES
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 ** AETHER LINKS
   :PROPERTIES:
@@ -394,9 +396,6 @@ TRADING
 *** [[https://techinfo.mylam.com/portal/#bulb][Home - MyLam]]
 
 ** ROUTINES
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 *** morning organization
   :PROPERTIES:
@@ -404,8 +403,6 @@ TRADING
   :END:
 
 **** [[https://mail.google.com/mail/u/0/#inbox][Inbox (37) - loganpalexander@gmail.com - Gmail]]
-
-**** [[https://lamresearch-my.sharepoint.com/personal/logan_alexander_lamresearch_com/_layouts/15/Doc.aspx?sourcedoc={75474994-bf69-4e22-95e6-c082eaa135ad}&action=edit&wd=target%283.%20RESOURCES%2FROUTINES.one%7C0f9e236d-a498-4d44-a5ab-5c6efb6e4fb4%2FMorning%20Organization%7C692592ca-4799-4f7b-958c-83a395143ea7%2F%29&wdorigin=NavigationUrl][Morning Organization checklist]]
 
 **** [[https://calendar.google.com/calendar/u/0/r][Google Calendar - Week of October 15, 2023]]
 
@@ -449,9 +446,6 @@ TRADING
 **** [[https://www.youtube.com/watch?v=1yQX1y7zMAg][(9) Leaves on a Stream Meditation - YouTube]]
 
 *** FOCUS TIME
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://open.spotify.com/playlist/2RHfgparZ8PzI4tJnYtVof][ADHD Techno Focus - Full Concentration - playlist by Vinicius Gallotti | Spotify]]
 
