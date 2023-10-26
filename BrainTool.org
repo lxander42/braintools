@@ -1,13 +1,7 @@
 #+PROPERTY: BTFavicons OFF
 #+PROPERTY: BTTheme LIGHT
-#+PROPERTY: BTVersion 67
-* 📝 Scratch
-Pages that you save without a Topic will be filed under Scratch
-
+#+PROPERTY: BTVersion 79
 * PROJECTS
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 ** Switching PKM to obsidian
   :PROPERTIES:
@@ -324,9 +318,8 @@ TRADING
 *** [[https://sharepoint.lamrc.net/dept/EPG/Eng/default.aspx][Home - Etch Engineering]]
 
 ** LAM LINKS
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
+
+*** [[https://cloud.workhuman.com/store/#/lam][Above and Beyond rewards]]
 
 *** [[https://thepoint.lamrc.net/Pages/default.aspx#][The Point]]
 
@@ -396,6 +389,9 @@ TRADING
 *** [[https://techinfo.mylam.com/portal/#bulb][Home - MyLam]]
 
 ** ROUTINES
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** morning organization
   :PROPERTIES:
@@ -446,6 +442,9 @@ TRADING
 **** [[https://www.youtube.com/watch?v=1yQX1y7zMAg][(9) Leaves on a Stream Meditation - YouTube]]
 
 *** FOCUS TIME
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 **** [[https://open.spotify.com/playlist/2RHfgparZ8PzI4tJnYtVof][ADHD Techno Focus - Full Concentration - playlist by Vinicius Gallotti | Spotify]]
 
@@ -597,3 +596,6 @@ text based CAD software
 **** [[https://app.clickup.com/8516223/dashboards/83wkz-120][DAILIES | Logan Alexander's Workspace]]
 
 **** [[https://mail.google.com/mail/u/0/#label/Business%2FBusiness+invoices+(closed)]["Business/Business invoices (closed)" - loganpalexander@gmail.com - Gmail]]
+
+* 📝 Scratch
+Pages that you save without a Topic will be filed under Scratch
