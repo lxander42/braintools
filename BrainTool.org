@@ -1,7 +1,10 @@
 #+PROPERTY: BTFavicons OFF
 #+PROPERTY: BTTheme LIGHT
-#+PROPERTY: BTVersion 79
+#+PROPERTY: BTVersion 127
 * PROJECTS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 ** Switching PKM to obsidian
   :PROPERTIES:
@@ -55,6 +58,9 @@ for use on mobile syncing notes
 **** TODO Put in modeling report request for ICS baseline pumping
 
 ** PPL31 - Insitu Plasma
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/LRC+Design+Workspace/DW-008205/-][Design Workspace DW-008205:-]]
 
@@ -269,6 +275,9 @@ TRADING
 *** [[https://www.karenlin.me/ranker][Task Ranking Tool]]
 
 * RESOURCES
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 ** AETHER LINKS
   :PROPERTIES:
@@ -318,6 +327,9 @@ TRADING
 *** [[https://sharepoint.lamrc.net/dept/EPG/Eng/default.aspx][Home - Etch Engineering]]
 
 ** LAM LINKS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** [[https://cloud.workhuman.com/store/#/lam][Above and Beyond rewards]]
 
@@ -464,6 +476,15 @@ TRADING
 text based CAD software
 
 **** [[https://docs.sw.siemens.com/en-US/doc/209349590/PL20200522120320484.assemblies/arrangements_arrange_dialog][Arrangements in NX]]
+
+*** EXCEL TOOLS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://medium.com/codex/how-to-build-a-custom-ribbon-in-excel-a3bc531551e1][How to Build a Custom Ribbon in Excel | by Andrew Moss | CodeX | Medium]]
+
+**** [[https://lamresearch.sharepoint.com/:x:/r/sites/SIP-eDMSTeam/_layouts/15/Doc.aspx?sourcedoc=%7B5d3b1907-f162-4ed6-a4bc-bdbc4b2f49c2%7D&action=default&mobileredirect=true][DPG BOM Compare tool]]
 
 ** STANDARDS
   :PROPERTIES:
