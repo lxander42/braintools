@@ -1,6 +1,6 @@
 #+PROPERTY: BTFavicons OFF
 #+PROPERTY: BTTheme LIGHT
-#+PROPERTY: BTVersion 127
+#+PROPERTY: BTVersion 279
 * PROJECTS
   :PROPERTIES:
   :VISIBILITY: folded
@@ -69,25 +69,34 @@ for use on mobile syncing notes
   :VISIBILITY: folded
   :END:
 
-**** TODO Check Aether GP panels
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
-
-***** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/714-A38182-001/C?objectId=34064.31666.19360.19052&embed=false][Part 714-A38182-001:C]]
-
-***** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/714-A38182-006/A?objectId=34064.31666.26824.31042][Part 714-A38182-006:A]]
-
-***** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/714-A38177-001/B][Part 714-A38177-001:B]]
-
-***** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/714-A38177-006/A?objectId=34064.31666.26825.47637][Part 714-A38177-006:A]]
-
-***** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Change+Action/CA-0308051/-?embed=false&objectId=34064.31666.22001.61698][Change Action CA-0308051:-]]
-
 **** TASK ARCHIVE
   :PROPERTIES:
   :VISIBILITY: folded
   :END:
+
+***** DONE Get Add-Delete BOM for phase 2 to Deanna
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/680-B32857-001/A?objectId=34064.31666.8073.6343][Part 680-B32857-001:A]]
+
+****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/857-B32860-001/A][Part 857-B32860-001:A]]
+
+***** DONE Check Aether GP panels
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/714-A38182-001/C?objectId=34064.31666.19360.19052&embed=false][Part 714-A38182-001:C]]
+
+****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/714-A38182-006/A?objectId=34064.31666.26824.31042][Part 714-A38182-006:A]]
+
+****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/714-A38177-001/B][Part 714-A38177-001:B]]
+
+****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/714-A38177-006/A?objectId=34064.31666.26825.47637][Part 714-A38177-006:A]]
+
+****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Change+Action/CA-0308051/-?embed=false&objectId=34064.31666.22001.61698][Change Action CA-0308051:-]]
 
 ***** DONE Check RF Bracket Drawing
   :PROPERTIES:
@@ -271,8 +280,24 @@ TRADING
 *** [[https://zipworks.shinyapps.io/generator/][Dyneema packing cube pattern generator]]
 
 ** ORGANIZATION
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** [[https://www.karenlin.me/ranker][Task Ranking Tool]]
+
+** FASHION
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** Overseas and designer clothing
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+for things like Arket, Ami Paris, Our Legacy. 
+
+**** [[https://www.farfetch.com/shopping/men/items.aspx][Designer Fashion for Men | FARFETCH US]]
 
 * RESOURCES
   :PROPERTIES:
@@ -362,10 +387,19 @@ TRADING
 
 **** [[https://www.freecadweb.org/][FreeCAD: Your own 3D parametric modeler]]
 
-** PART ORDERING AND LOGISTICS
+** PARTS
   :PROPERTIES:
   :VISIBILITY: folded
   :END:
+
+*** AETHER GP INTERCONNECT DIAGRAM
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/224-A19277-710/C][Part 224-A19277-710:C]]
+
+** PART ORDERING AND LOGISTICS
 
 *** [[https://apps.powerapps.com/play/e/7b81d53e-762e-4084-83c7-425d31b78fc1/a/98e8af26-65a3-45b9-a311-1cb00da7d776?tenantId=918079db-c902-4e29-b22c-9764410d0375][ERF 3.0]]
 
@@ -454,9 +488,6 @@ TRADING
 **** [[https://www.youtube.com/watch?v=1yQX1y7zMAg][(9) Leaves on a Stream Meditation - YouTube]]
 
 *** FOCUS TIME
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://open.spotify.com/playlist/2RHfgparZ8PzI4tJnYtVof][ADHD Techno Focus - Full Concentration - playlist by Vinicius Gallotti | Spotify]]
 
@@ -537,9 +568,6 @@ text based CAD software
   :END:
 
 ** OSREVENGE
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 *** Website
   :PROPERTIES:
