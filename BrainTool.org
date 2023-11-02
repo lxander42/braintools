@@ -1,6 +1,6 @@
 #+PROPERTY: BTFavicons OFF
 #+PROPERTY: BTTheme LIGHT
-#+PROPERTY: BTVersion 279
+#+PROPERTY: BTVersion 309
 * PROJECTS
   :PROPERTIES:
   :VISIBILITY: folded
@@ -299,6 +299,18 @@ for things like Arket, Ami Paris, Our Legacy.
 
 **** [[https://www.farfetch.com/shopping/men/items.aspx][Designer Fashion for Men | FARFETCH US]]
 
+** SPIRITUALITY
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** Qi Gong
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://www.youtube.com/watch?v=QQGmjYyu_j8][(6) Just Practice This For 5 Min & Your All Energy Blockages Will Be Cleared| Chunyi Lin - YouTube]]
+
 * RESOURCES
   :PROPERTIES:
   :VISIBILITY: folded
@@ -401,6 +413,8 @@ for things like Arket, Ami Paris, Our Legacy.
 
 ** PART ORDERING AND LOGISTICS
 
+*** [[https://lamresearch-my.sharepoint.com/:x:/r/personal/logan_alexander_lamresearch_com/_layouts/15/Doc.aspx?sourcedoc=%7B2CCE02B6-222D-42F4-8184-906346E80E8F%7D&file=EngineeringControlDocumentV0.5.xlsm&nav=MTVfe0M0REMwNTI1LUEwOEYtNDJBMi1BRDQ1LUREOTVGODBDRDA0Rn0&action=default&mobileredirect=true][EngineeringControlDocumentV0.5.xlsm]]
+
 *** [[https://apps.powerapps.com/play/e/7b81d53e-762e-4084-83c7-425d31b78fc1/a/98e8af26-65a3-45b9-a311-1cb00da7d776?tenantId=918079db-c902-4e29-b22c-9764410d0375][ERF 3.0]]
 
 *** [[https://apps.powerapps.com/play/e/7b81d53e-762e-4084-83c7-425d31b78fc1/a/dcc4f16d-de3d-420e-9be2-880887c8d3fe?tenantId=918079db-c902-4e29-b22c-9764410d0375][VirtualWarehouse - Power Apps]]
@@ -410,18 +424,12 @@ for things like Arket, Ami Paris, Our Legacy.
 *** [[https://s1.ariba.com/Buyer/Main/aw?awh=r&awssk=01sosls9&realm=mylam&dard=1#b0][Ariba Spend Management]]
 
 ** PART LOOKUP
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 *** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/p/lrc/helium/iPLMHomepage][iPLM]]
 
 *** [[https://kmmatrix.fremont.lamrc.net//][KM Matrix]]
 
 ** PILOT
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 *** [[https://lamresearch.quickbase.com/db/bgmh64wg7?a=q&qid=1001379][Fremont Pilot Operations - Logans open items]]
 
@@ -440,9 +448,6 @@ for things like Arket, Ami Paris, Our Legacy.
   :END:
 
 *** morning organization
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://mail.google.com/mail/u/0/#inbox][Inbox (37) - loganpalexander@gmail.com - Gmail]]
 
@@ -568,6 +573,9 @@ text based CAD software
   :END:
 
 ** OSREVENGE
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** Website
   :PROPERTIES:
