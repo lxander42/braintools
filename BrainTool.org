@@ -1,6 +1,6 @@
 #+PROPERTY: BTFavicons OFF
 #+PROPERTY: BTTheme LIGHT
-#+PROPERTY: BTVersion 309
+#+PROPERTY: BTVersion 336
 * PROJECTS
   :PROPERTIES:
   :VISIBILITY: folded
@@ -312,9 +312,6 @@ for things like Arket, Ami Paris, Our Legacy.
 **** [[https://www.youtube.com/watch?v=QQGmjYyu_j8][(6) Just Practice This For 5 Min & Your All Energy Blockages Will Be Cleared| Chunyi Lin - YouTube]]
 
 * RESOURCES
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 ** AETHER LINKS
   :PROPERTIES:
@@ -412,6 +409,9 @@ for things like Arket, Ami Paris, Our Legacy.
 **** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/224-A19277-710/C][Part 224-A19277-710:C]]
 
 ** PART ORDERING AND LOGISTICS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** [[https://lamresearch-my.sharepoint.com/:x:/r/personal/logan_alexander_lamresearch_com/_layouts/15/Doc.aspx?sourcedoc=%7B2CCE02B6-222D-42F4-8184-906346E80E8F%7D&file=EngineeringControlDocumentV0.5.xlsm&nav=MTVfe0M0REMwNTI1LUEwOEYtNDJBMi1BRDQ1LUREOTVGODBDRDA0Rn0&action=default&mobileredirect=true][EngineeringControlDocumentV0.5.xlsm]]
 
@@ -430,6 +430,9 @@ for things like Arket, Ami Paris, Our Legacy.
 *** [[https://kmmatrix.fremont.lamrc.net//][KM Matrix]]
 
 ** PILOT
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** [[https://lamresearch.quickbase.com/db/bgmh64wg7?a=q&qid=1001379][Fremont Pilot Operations - Logans open items]]
 
@@ -443,9 +446,6 @@ for things like Arket, Ami Paris, Our Legacy.
 *** [[https://techinfo.mylam.com/portal/#bulb][Home - MyLam]]
 
 ** ROUTINES
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 *** morning organization
 
@@ -493,6 +493,8 @@ for things like Arket, Ami Paris, Our Legacy.
 **** [[https://www.youtube.com/watch?v=1yQX1y7zMAg][(9) Leaves on a Stream Meditation - YouTube]]
 
 *** FOCUS TIME
+
+**** [[https://calendar.google.com/calendar/u/0/r/agenda][Google Calendar - Schedule starting Thursday, November 2, 2023]]
 
 **** [[https://open.spotify.com/playlist/2RHfgparZ8PzI4tJnYtVof][ADHD Techno Focus - Full Concentration - playlist by Vinicius Gallotti | Spotify]]
 
@@ -656,3 +658,5 @@ text based CAD software
 
 * 📝 Scratch
 Pages that you save without a Topic will be filed under Scratch
+
+** [[https://lamresearch.sharepoint.com/:x:/r/sites/AetherLightTeam/_layouts/15/Doc.aspx?sourcedoc=%7BF48F2A71-9C19-4AA7-BCCF-03749789ED18%7D&file=Aether%20Product%20-%20Key%20Part%20numbers.xlsx&wdLOR=cD4DDA5EE-C652-4C75-B7B3-E9BEB329AC53&action=default&mobileredirect=true][Aether Product - Key Part numbers.xlsx]]
