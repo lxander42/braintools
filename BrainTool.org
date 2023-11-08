@@ -1,6 +1,6 @@
 #+PROPERTY: BTFavicons OFF
 #+PROPERTY: BTTheme LIGHT
-#+PROPERTY: BTVersion 362
+#+PROPERTY: BTVersion 414
 * PROJECTS
   :PROPERTIES:
   :VISIBILITY: folded
@@ -143,6 +143,9 @@ for use on mobile syncing notes
   :END:
 
 *** Milk Jug Holder Project - Fiverr
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 **** [[https://www.mcmaster.com/9683K28/][Birch Rod, 36" Long, 1-3/4" Diameter | McMaster-Carr]]
 
@@ -159,6 +162,18 @@ for use on mobile syncing notes
 **** [[https://www.mcmaster.com/92470A242/][Phillips Rounded Head Screws for Sheet Metal, 18-8 Stainless Steel, Number 10 Size, 1/2" Long | McMaster-Carr]]
 
 **** [[https://www.mcmaster.com/4015A21/][Weather-Resistant Draw Latch, Zinc-Plated-Steel Strike Plate, 14-5/8" Long x 1-7/8" Wide | McMaster-Carr]]
+
+*** MINI FRIDGE PROJECT
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** Miniature chiller unit
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+***** [[https://www.coowor.com/p/20190731153903140G6GKAJ.htm;jsessionid=CD251BDEDB9DD0A3330D3C08420A8F22][12v 24v mini refrigerator cooling unit with miniature refrigeration compressor - Coowor.com]]
 
 * AREAS
   :PROPERTIES:
@@ -259,10 +274,9 @@ for use on mobile syncing notes
 *** [[https://codebeautify.org/html-to-markdown][HTML to Markdown Converter]]
 
 ** TRADING
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 TRADING
+
+*** [[https://www.warriortrading.com/day-trading-watch-list-top-stocks-to-watch/#toc1][Watch List of the Best Stocks for Day Trading – Updated Daily | Warrior Trading]]
 
 *** [[https://www.tradervue.com/][Tradervue Trading Journal - Journal, Analyze, and Share your trades]]
 
@@ -312,6 +326,9 @@ for things like Arket, Ami Paris, Our Legacy.
 **** [[https://www.youtube.com/watch?v=QQGmjYyu_j8][(6) Just Practice This For 5 Min & Your All Energy Blockages Will Be Cleared| Chunyi Lin - YouTube]]
 
 * RESOURCES
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 ** AETHER LINKS
   :PROPERTIES:
@@ -424,6 +441,9 @@ for things like Arket, Ami Paris, Our Legacy.
 *** [[https://s1.ariba.com/Buyer/Main/aw?awh=r&awssk=01sosls9&realm=mylam&dard=1#b0][Ariba Spend Management]]
 
 ** PART LOOKUP
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** [[https://lamresearch.sharepoint.com/:x:/r/sites/AetherLightTeam/_layouts/15/Doc.aspx?sourcedoc=%7BF48F2A71-9C19-4AA7-BCCF-03749789ED18%7D&file=Aether%20Product%20-%20Key%20Part%20numbers.xlsx&wdLOR=cD4DDA5EE-C652-4C75-B7B3-E9BEB329AC53&action=default&mobileredirect=true][Aether Product - Key Part numbers.xlsx]]
 
@@ -448,6 +468,9 @@ for things like Arket, Ami Paris, Our Legacy.
 *** [[https://techinfo.mylam.com/portal/#bulb][Home - MyLam]]
 
 ** ROUTINES
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** morning organization
 
@@ -530,6 +553,13 @@ text based CAD software
   :PROPERTIES:
   :VISIBILITY: folded
   :END:
+
+*** Packaging BKM
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://kmmatrix.fremont.lamrc.net/DViewerX?partnumber=202-017186-001&partrev=D][PROC,PKNG MEDIA SELECTION MATRIX 202-017186-001]]
 
 *** DRAFTING
   :PROPERTIES:
