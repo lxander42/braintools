@@ -1,6 +1,6 @@
 #+PROPERTY: BTFavicons OFF
 #+PROPERTY: BTTheme LIGHT
-#+PROPERTY: BTVersion 414
+#+PROPERTY: BTVersion 58
 * PROJECTS
   :PROPERTIES:
   :VISIBILITY: folded
@@ -326,9 +326,6 @@ for things like Arket, Ami Paris, Our Legacy.
 **** [[https://www.youtube.com/watch?v=QQGmjYyu_j8][(6) Just Practice This For 5 Min & Your All Energy Blockages Will Be Cleared| Chunyi Lin - YouTube]]
 
 * RESOURCES
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 ** AETHER LINKS
   :PROPERTIES:
@@ -357,9 +354,13 @@ for things like Arket, Ami Paris, Our Legacy.
 *** [[https://lamresearch.sharepoint.com/sites/DPGEngineering-DPGWiki/SitePages/DPG-Engineering-Wiki-Home.aspx][DPG Engineering Wiki Home]]
 
 ** AI
+
+*** chatGPT
   :PROPERTIES:
   :VISIBILITY: folded
   :END:
+
+**** [[https://chat.openai.com/][ChatGPT]]
 
 *** [[https://beta.openai.com/dashboard][OpenAI API]]
 
@@ -468,11 +469,11 @@ for things like Arket, Ami Paris, Our Legacy.
 *** [[https://techinfo.mylam.com/portal/#bulb][Home - MyLam]]
 
 ** ROUTINES
+
+*** DAILY ORGANIZATION
   :PROPERTIES:
   :VISIBILITY: folded
   :END:
-
-*** morning organization
 
 **** [[https://mail.google.com/mail/u/0/#inbox][Inbox (37) - loganpalexander@gmail.com - Gmail]]
 
