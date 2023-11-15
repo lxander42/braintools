@@ -1,7 +1,10 @@
 #+PROPERTY: BTFavicons OFF
 #+PROPERTY: BTTheme LIGHT
-#+PROPERTY: BTVersion 434
+#+PROPERTY: BTVersion 475
 * PROJECTS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 ** Switching PKM to obsidian
   :PROPERTIES:
@@ -32,6 +35,9 @@ for use on mobile syncing notes
 ***** [[https://www.youtube.com/watch?v=nJ660t5ku9A][(8) Rethinking MY PKM: How I Organize Everything In Obsidian - YouTube]]
 
 ** PPL95 - COOLING STATION
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** Tasks
   :PROPERTIES:
@@ -39,8 +45,6 @@ for use on mobile syncing notes
   :END:
 
 **** TODO Propose a design for CTS chamber and liner, mock up cad
-
-***** [[https://pdtccaeas01.fremont.lamrc.net:3000/#/com.siemens.splm.clientfx.tcui.xrt.showObject?uid=3GdMfcLdIaUMKC][252-A66974-002; LYT,SYS,USER DEV,CTS - 252-A66974-002; LYT,SYS,USER DEV,CTS]]
 
 ***** [[https://techinfo.mylam.com/portal/group/mylam/contenttyperesults][Kiyo GX myLam]]
 
@@ -344,6 +348,9 @@ for things like Arket, Ami Paris, Our Legacy.
 *** [[https://lamresearch.sharepoint.com/sites/ext_WatlowAether?e=1%3Afb1582c8a36f4c23aa1b6a6d2af2c7b2][WatlowAether Extranet - Home]]
 
 ** DPG
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** [[https://lamresearch.sharepoint.com/sites/DPG_EngineeringTeam/SitePages/Design-Review-Template.aspx?source=https://lamresearch.sharepoint.com/sites/DPG_EngineeringTeam&xsdata=MDV8MDF8fGUxMDhkZDFhMjBiMzQ4NDE3YjdlMDhkYjllYWJhMjk2fDkxODA3OWRiYzkwMjRlMjliMjJjOTc2NDQxMGQwMzc1fDB8MHw2MzgyNzgyMzIyMDc0MjQzODJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPbTFsWlhScGJtZGZXVEpOTTFsNlNtdE5SMWwwVDFSb2FrOURNREJPVjFKcFRGUnJNbGxVWTNSTlIxbDVXVzFSZVU5SFJtMU5ha2w2UUhSb2NtVmhaQzUyTWk5dFpYTnpZV2RsY3k4eE5qa3lNakkyTkRFNU5EVTF8ZjlmNGQ4ZjFkMWY2NGRkZjdiN2UwOGRiOWVhYmEyOTZ8ZWQwOWVjODA3ZDk2NDQwNWJjN2IwMWQ5NTA4NjM0YTc%3D&sdata=T2hGdWRnTmUxR3hTN0w0dWNOM3craWp1Ym9KV0ZONEFoSHdIZDcvQ0U5VT0%3D&ovuser=918079db-c902-4e29-b22c-9764410d0375%2CLogan.Alexander%40lamresearch.com&OR=Teams-HL&CT=1692804853371&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA3MDMwNzM0NiIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D][DPG Design Review Template Update]]
 
@@ -421,6 +428,9 @@ for things like Arket, Ami Paris, Our Legacy.
 **** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/224-A19277-710/C][Part 224-A19277-710:C]]
 
 ** PART ORDERING AND LOGISTICS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** [[https://lamresearch-my.sharepoint.com/:x:/r/personal/logan_alexander_lamresearch_com/_layouts/15/Doc.aspx?sourcedoc=%7B2CCE02B6-222D-42F4-8184-906346E80E8F%7D&file=EngineeringControlDocumentV0.5.xlsm&nav=MTVfe0M0REMwNTI1LUEwOEYtNDJBMi1BRDQ1LUREOTVGODBDRDA0Rn0&action=default&mobileredirect=true][EngineeringControlDocumentV0.5.xlsm]]
 
@@ -433,12 +443,22 @@ for things like Arket, Ami Paris, Our Legacy.
 *** [[https://s1.ariba.com/Buyer/Main/aw?awh=r&awssk=01sosls9&realm=mylam&dard=1#b0][Ariba Spend Management]]
 
 ** PART LOOKUP
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** [[https://lamresearch.sharepoint.com/:x:/r/sites/AetherLightTeam/_layouts/15/Doc.aspx?sourcedoc=%7BF48F2A71-9C19-4AA7-BCCF-03749789ED18%7D&file=Aether%20Product%20-%20Key%20Part%20numbers.xlsx&wdLOR=cD4DDA5EE-C652-4C75-B7B3-E9BEB329AC53&action=default&mobileredirect=true][Aether Product - Key Part numbers.xlsx]]
 
 *** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/p/lrc/helium/iPLMHomepage][iPLM]]
 
 *** [[https://kmmatrix.fremont.lamrc.net//][KM Matrix]]
+
+*** Teamcenter
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://pdtccaeas01.fremont.lamrc.net:3000/#/showHome][Teamcenter(LamPRD) - Home]]
 
 ** PILOT
   :PROPERTIES:
@@ -457,8 +477,14 @@ for things like Arket, Ami Paris, Our Legacy.
 *** [[https://techinfo.mylam.com/portal/#bulb][Home - MyLam]]
 
 ** ROUTINES
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** morning organization
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 **** [[https://mail.google.com/mail/u/0/#inbox][Inbox (37) - loganpalexander@gmail.com - Gmail]]
 
