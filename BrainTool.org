@@ -1,6 +1,6 @@
 #+PROPERTY: BTFavicons OFF
 #+PROPERTY: BTTheme LIGHT
-#+PROPERTY: BTVersion 58
+#+PROPERTY: BTVersion 414
 * PROJECTS
   :PROPERTIES:
   :VISIBILITY: folded
@@ -40,10 +40,11 @@ for use on mobile syncing notes
   :END:
 
 *** Tasks
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 **** TODO Propose a design for CTS chamber and liner, mock up cad
-
-***** [[https://pdtccaeas01.fremont.lamrc.net:3000/#/com.siemens.splm.clientfx.tcui.xrt.showObject?uid=3GdMfcLdIaUMKC][252-A66974-002; LYT,SYS,USER DEV,CTS - 252-A66974-002; LYT,SYS,USER DEV,CTS]]
 
 ***** [[https://techinfo.mylam.com/portal/group/mylam/contenttyperesults][Kiyo GX myLam]]
 
@@ -56,6 +57,10 @@ for use on mobile syncing notes
 **** TODO Get pump curves for typical pump that is used on ICS, try to extrapolate that for what we need for CTS.
 
 **** TODO Put in modeling report request for ICS baseline pumping
+
+*** DESIGN WORKSPACE
+
+**** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/LRC+Design+Workspace/DW-011121/-?objectId=34064.31666.58107.43360][Design Workspace DW-011121:-]]
 
 ** PPL31 - Insitu Plasma
   :PROPERTIES:
@@ -452,6 +457,13 @@ for things like Arket, Ami Paris, Our Legacy.
 
 *** [[https://kmmatrix.fremont.lamrc.net//][KM Matrix]]
 
+*** Teamcenter
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://pdtccaeas01.fremont.lamrc.net:3000/#/showHome][Teamcenter(LamPRD) - Home]]
+
 ** PILOT
   :PROPERTIES:
   :VISIBILITY: folded
@@ -474,6 +486,8 @@ for things like Arket, Ami Paris, Our Legacy.
   :PROPERTIES:
   :VISIBILITY: folded
   :END:
+
+*** morning organization
 
 **** [[https://mail.google.com/mail/u/0/#inbox][Inbox (37) - loganpalexander@gmail.com - Gmail]]
 
