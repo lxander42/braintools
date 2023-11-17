@@ -1,6 +1,6 @@
 #+PROPERTY: BTFavicons OFF
-#+PROPERTY: BTTheme LIGHT
-#+PROPERTY: BTVersion 414
+#+PROPERTY: BTTheme DARK
+#+PROPERTY: BTVersion 61
 * PROJECTS
   :PROPERTIES:
   :VISIBILITY: folded
@@ -59,8 +59,25 @@ for use on mobile syncing notes
 **** TODO Put in modeling report request for ICS baseline pumping
 
 *** DESIGN WORKSPACE
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 **** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/LRC+Design+Workspace/DW-011121/-?objectId=34064.31666.58107.43360][Design Workspace DW-011121:-]]
+
+*** CTS modeling report
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://lamresearch-my.sharepoint.com/:p:/p/deepesh_gupta/EcDQqGyP66hFtanAcc38ix4BhyVtnPQ3hApIPdR45tPImg?email=Logan.Alexander%40lamresearch.com&e=4%3AYBWw9J&fromShare=true&at=9&CID=314A556A-6744-45CF-9672-72EF723FF11D&wdLOR=cE6A29B35-656B-4FFC-8BB8-578E29E4F33E][MDL0001268_alignment_11-16-23.pptx]]
+
+*** foreline design guidelines
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://lamresearch-my.sharepoint.com/:p:/p/mahesh_shimoga/ETObLEpXqgFFtjJHTn74qHcBvsDvP6QnpiHRy9_8frZGcw?email=Logan.Alexander%40lamresearch.com&e=4%3AcpLQJl&fromShare=true&at=9&CID=E969BEC1-623F-480E-BCAE-280383BE50B3&wdLOR=c59D07F3D-4921-43A5-8CE5-09D4CD417ADD][Foreline Design guidelines - Degas modules.pptx]]
 
 ** PPL31 - Insitu Plasma
   :PROPERTIES:
@@ -139,6 +156,13 @@ for use on mobile syncing notes
 ****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/714-A12966-004/A?objectId=34064.31666.8762.31904][Part 714-A12966-004:A]]
 
 ****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Change+Action/CA-0308582/-?objectId=34064.31666.46187.4942][Change Action CA-0308582:-]]
+
+*** New sensor tree bracket fit checking
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://lamresearch-my.sharepoint.com/:p:/p/patrick_hamel/EcO_9Ega9xtNt03-Ftygl6YBgp593O9IXdaNdWup6-PpTw][monomoter tree bracket.pptx]]
 
 ** PPL59 - EPL198 Top plate cleanup
 
@@ -279,6 +303,9 @@ for use on mobile syncing notes
 *** [[https://codebeautify.org/html-to-markdown][HTML to Markdown Converter]]
 
 ** TRADING
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 TRADING
 
 *** [[https://www.warriortrading.com/day-trading-watch-list-top-stocks-to-watch/#toc1][Watch List of the Best Stocks for Day Trading – Updated Daily | Warrior Trading]]
@@ -331,6 +358,9 @@ for things like Arket, Ami Paris, Our Legacy.
 **** [[https://www.youtube.com/watch?v=QQGmjYyu_j8][(6) Just Practice This For 5 Min & Your All Energy Blockages Will Be Cleared| Chunyi Lin - YouTube]]
 
 * RESOURCES
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 ** AETHER LINKS
   :PROPERTIES:
@@ -359,6 +389,9 @@ for things like Arket, Ami Paris, Our Legacy.
 *** [[https://lamresearch.sharepoint.com/sites/DPGEngineering-DPGWiki/SitePages/DPG-Engineering-Wiki-Home.aspx][DPG Engineering Wiki Home]]
 
 ** AI
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** chatGPT
   :PROPERTIES:
@@ -432,9 +465,6 @@ for things like Arket, Ami Paris, Our Legacy.
 **** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/224-A19277-710/C][Part 224-A19277-710:C]]
 
 ** PART ORDERING AND LOGISTICS
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 *** [[https://lamresearch-my.sharepoint.com/:x:/r/personal/logan_alexander_lamresearch_com/_layouts/15/Doc.aspx?sourcedoc=%7B2CCE02B6-222D-42F4-8184-906346E80E8F%7D&file=EngineeringControlDocumentV0.5.xlsm&nav=MTVfe0M0REMwNTI1LUEwOEYtNDJBMi1BRDQ1LUREOTVGODBDRDA0Rn0&action=default&mobileredirect=true][EngineeringControlDocumentV0.5.xlsm]]
 
@@ -458,9 +488,6 @@ for things like Arket, Ami Paris, Our Legacy.
 *** [[https://kmmatrix.fremont.lamrc.net//][KM Matrix]]
 
 *** Teamcenter
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://pdtccaeas01.fremont.lamrc.net:3000/#/showHome][Teamcenter(LamPRD) - Home]]
 
@@ -483,9 +510,6 @@ for things like Arket, Ami Paris, Our Legacy.
 ** ROUTINES
 
 *** DAILY ORGANIZATION
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 *** morning organization
 
@@ -533,6 +557,9 @@ for things like Arket, Ami Paris, Our Legacy.
 **** [[https://www.youtube.com/watch?v=1yQX1y7zMAg][(9) Leaves on a Stream Meditation - YouTube]]
 
 *** FOCUS TIME
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 **** [[https://calendar.google.com/calendar/u/0/r/agenda][Google Calendar - Schedule starting Thursday, November 2, 2023]]
 
