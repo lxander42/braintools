@@ -1,6 +1,7 @@
 #+PROPERTY: BTFavicons OFF
 #+PROPERTY: BTTheme DARK
-#+PROPERTY: BTVersion 61
+#+PROPERTY: BTVersion 89
+#+PROPERTY: BTGDriveConnected false
 * PROJECTS
   :PROPERTIES:
   :VISIBILITY: folded
@@ -465,6 +466,16 @@ for things like Arket, Ami Paris, Our Legacy.
 **** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/224-A19277-710/C][Part 224-A19277-710:C]]
 
 ** PART ORDERING AND LOGISTICS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** Requestor parts delivery request
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://lamresearch.quickbase.com/db/btc26twus?a=nwr][GLO Performance - Add Request]]
 
 *** [[https://lamresearch-my.sharepoint.com/:x:/r/personal/logan_alexander_lamresearch_com/_layouts/15/Doc.aspx?sourcedoc=%7B2CCE02B6-222D-42F4-8184-906346E80E8F%7D&file=EngineeringControlDocumentV0.5.xlsm&nav=MTVfe0M0REMwNTI1LUEwOEYtNDJBMi1BRDQ1LUREOTVGODBDRDA0Rn0&action=default&mobileredirect=true][EngineeringControlDocumentV0.5.xlsm]]
 
@@ -508,6 +519,9 @@ for things like Arket, Ami Paris, Our Legacy.
 *** [[https://techinfo.mylam.com/portal/#bulb][Home - MyLam]]
 
 ** ROUTINES
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** DAILY ORGANIZATION
 
