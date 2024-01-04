@@ -1,6 +1,6 @@
 #+PROPERTY: BTFavicons OFF
 #+PROPERTY: BTTheme DARK
-#+PROPERTY: BTVersion 19
+#+PROPERTY: BTVersion 35
 * PROJECTS
   :PROPERTIES:
   :VISIBILITY: folded
@@ -465,6 +465,9 @@ for things like Arket, Ami Paris, Our Legacy.
 **** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/224-A19277-710/C][Part 224-A19277-710:C]]
 
 ** PART ORDERING AND LOGISTICS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** Requestor parts delivery request
   :PROPERTIES:
@@ -484,6 +487,9 @@ for things like Arket, Ami Paris, Our Legacy.
 *** [[https://s1.ariba.com/Buyer/Main/aw?awh=r&awssk=01sosls9&realm=mylam&dard=1#b0][Ariba Spend Management]]
 
 ** PART LOOKUP
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** [[https://lamresearch.sharepoint.com/:x:/r/sites/AetherLightTeam/_layouts/15/Doc.aspx?sourcedoc=%7BF48F2A71-9C19-4AA7-BCCF-03749789ED18%7D&file=Aether%20Product%20-%20Key%20Part%20numbers.xlsx&wdLOR=cD4DDA5EE-C652-4C75-B7B3-E9BEB329AC53&action=default&mobileredirect=true][Aether Product - Key Part numbers.xlsx]]
 
@@ -644,6 +650,13 @@ text based CAD software
 
 *** [[https://www.loom.com/looms/videos][Library | Loom]]
 
+** WISHLIST
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** [[https://giftful.com/loganalexander2][Giftful]]
+
 * ARCHIVE
   :PROPERTIES:
   :VISIBILITY: folded
@@ -733,7 +746,3 @@ text based CAD software
 
 * 📝 Scratch
 Pages that you save without a Topic will be filed under Scratch
-
-* wishlist
-
-** [[https://giftful.com/loganalexander2][Giftful]]
