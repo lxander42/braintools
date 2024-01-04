@@ -1,6 +1,6 @@
 #+PROPERTY: BTFavicons OFF
 #+PROPERTY: BTTheme DARK
-#+PROPERTY: BTVersion 35
+#+PROPERTY: BTVersion 79
 * PROJECTS
   :PROPERTIES:
   :VISIBILITY: folded
@@ -66,9 +66,6 @@ for use on mobile syncing notes
 **** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/LRC+Design+Workspace/DW-011121/-?objectId=34064.31666.58107.43360][Design Workspace DW-011121:-]]
 
 *** CTS modeling report
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://lamresearch-my.sharepoint.com/:p:/p/deepesh_gupta/EcDQqGyP66hFtanAcc38ix4BhyVtnPQ3hApIPdR45tPImg?email=Logan.Alexander%40lamresearch.com&e=4%3AYBWw9J&fromShare=true&at=9&CID=314A556A-6744-45CF-9672-72EF723FF11D&wdLOR=cE6A29B35-656B-4FFC-8BB8-578E29E4F33E][MDL0001268_alignment_11-16-23.pptx]]
 
@@ -377,17 +374,6 @@ for things like Arket, Ami Paris, Our Legacy.
 
 *** [[https://lamresearch.sharepoint.com/sites/ext_WatlowAether?e=1%3Afb1582c8a36f4c23aa1b6a6d2af2c7b2][WatlowAether Extranet - Home]]
 
-** DPG
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
-
-*** [[https://lamresearch.sharepoint.com/sites/DPG_EngineeringTeam/SitePages/Design-Review-Template.aspx?source=https://lamresearch.sharepoint.com/sites/DPG_EngineeringTeam&xsdata=MDV8MDF8fGUxMDhkZDFhMjBiMzQ4NDE3YjdlMDhkYjllYWJhMjk2fDkxODA3OWRiYzkwMjRlMjliMjJjOTc2NDQxMGQwMzc1fDB8MHw2MzgyNzgyMzIyMDc0MjQzODJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPbTFsWlhScGJtZGZXVEpOTTFsNlNtdE5SMWwwVDFSb2FrOURNREJPVjFKcFRGUnJNbGxVWTNSTlIxbDVXVzFSZVU5SFJtMU5ha2w2UUhSb2NtVmhaQzUyTWk5dFpYTnpZV2RsY3k4eE5qa3lNakkyTkRFNU5EVTF8ZjlmNGQ4ZjFkMWY2NGRkZjdiN2UwOGRiOWVhYmEyOTZ8ZWQwOWVjODA3ZDk2NDQwNWJjN2IwMWQ5NTA4NjM0YTc%3D&sdata=T2hGdWRnTmUxR3hTN0w0dWNOM3craWp1Ym9KV0ZONEFoSHdIZDcvQ0U5VT0%3D&ovuser=918079db-c902-4e29-b22c-9764410d0375%2CLogan.Alexander%40lamresearch.com&OR=Teams-HL&CT=1692804853371&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA3MDMwNzM0NiIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D][DPG Design Review Template Update]]
-
-*** [[https://lamresearch.sharepoint.com/sites/DPG_EngineeringTeam][DPG Engineering - Home]]
-
-*** [[https://lamresearch.sharepoint.com/sites/DPGEngineering-DPGWiki/SitePages/DPG-Engineering-Wiki-Home.aspx][DPG Engineering Wiki Home]]
-
 ** AI
   :PROPERTIES:
   :VISIBILITY: folded
@@ -401,6 +387,29 @@ for things like Arket, Ami Paris, Our Legacy.
 **** [[https://chat.openai.com/][ChatGPT]]
 
 *** [[https://beta.openai.com/dashboard][OpenAI API]]
+
+** BOOKS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** Connors book
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://docs.google.com/document/d/1s1VnZcVldzYwnC6U1zMSRtzkLWOTqiQjeN1MnZftdVo/edit?pli=1][Under Belcian Skies: Book 1 v1 - Google Docs]]
+
+** DPG
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** [[https://lamresearch.sharepoint.com/sites/DPG_EngineeringTeam/SitePages/Design-Review-Template.aspx?source=https://lamresearch.sharepoint.com/sites/DPG_EngineeringTeam&xsdata=MDV8MDF8fGUxMDhkZDFhMjBiMzQ4NDE3YjdlMDhkYjllYWJhMjk2fDkxODA3OWRiYzkwMjRlMjliMjJjOTc2NDQxMGQwMzc1fDB8MHw2MzgyNzgyMzIyMDc0MjQzODJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPbTFsWlhScGJtZGZXVEpOTTFsNlNtdE5SMWwwVDFSb2FrOURNREJPVjFKcFRGUnJNbGxVWTNSTlIxbDVXVzFSZVU5SFJtMU5ha2w2UUhSb2NtVmhaQzUyTWk5dFpYTnpZV2RsY3k4eE5qa3lNakkyTkRFNU5EVTF8ZjlmNGQ4ZjFkMWY2NGRkZjdiN2UwOGRiOWVhYmEyOTZ8ZWQwOWVjODA3ZDk2NDQwNWJjN2IwMWQ5NTA4NjM0YTc%3D&sdata=T2hGdWRnTmUxR3hTN0w0dWNOM3craWp1Ym9KV0ZONEFoSHdIZDcvQ0U5VT0%3D&ovuser=918079db-c902-4e29-b22c-9764410d0375%2CLogan.Alexander%40lamresearch.com&OR=Teams-HL&CT=1692804853371&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA3MDMwNzM0NiIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D][DPG Design Review Template Update]]
+
+*** [[https://lamresearch.sharepoint.com/sites/DPG_EngineeringTeam][DPG Engineering - Home]]
+
+*** [[https://lamresearch.sharepoint.com/sites/DPGEngineering-DPGWiki/SitePages/DPG-Engineering-Wiki-Home.aspx][DPG Engineering Wiki Home]]
 
 ** EXCEL TOOLS
   :PROPERTIES:
@@ -518,6 +527,9 @@ for things like Arket, Ami Paris, Our Legacy.
 *** [[https://techinfo.mylam.com/portal/#bulb][Home - MyLam]]
 
 ** ROUTINES
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** DAILY ORGANIZATION
 
@@ -545,6 +557,8 @@ for things like Arket, Ami Paris, Our Legacy.
   :VISIBILITY: folded
   :END:
 
+**** [[https://lamresearch.sharepoint.com/:x:/r/sites/Aether_Hardware_Team/_layouts/15/Doc.aspx?sourcedoc=%7B59B40567-1423-4144-BC42-1A4531AE4422%7D&file=Weekly%20Report%20Master%202024.xlsx&wdLOR=c3989DD06-6DA8-4275-A539-54FA395A722B&action=default&mobileredirect=true][Weekly Report Master 2024.xlsx]]
+
 **** [[https://lamresearch.quickbase.com/db/bqx6mdexb?a=dr&r=e5&rl=cukb][Aether PPL - EPL #155]]
 
 **** [[https://lamresearch.quickbase.com/db/bqx6mdexb?a=er&rid=198&rl=dpny][Aether PPL - Edit EPL #198]]
@@ -556,8 +570,6 @@ for things like Arket, Ami Paris, Our Legacy.
 **** [[https://lamresearch.quickbase.com/db/bqx6mdevt?a=er&rid=95&rl=emba][Aether PPL - Edit Project #95]]
 
 **** [[https://lamresearch-my.sharepoint.com/personal/logan_alexander_lamresearch_com/_layouts/15/Doc.aspx?sourcedoc={75474994-bf69-4e22-95e6-c082eaa135ad}&action=edit&wd=target%283.%20RESOURCES%2FROUTINES.one%7C0f9e236d-a498-4d44-a5ab-5c6efb6e4fb4%2FWeekly%20Updates%7Cc2cec6af-6eb6-40a4-a08a-376ee83a698d%2F%29&wdorigin=NavigationUrl][Logan @ Lam Research]]
-
-**** [[https://lamresearch.sharepoint.com/:x:/r/sites/Aether_Hardware_Team/_layouts/15/Doc.aspx?sourcedoc=%7B35CC56FE-99F0-4A21-9899-E4FD595021AE%7D&file=Weekly%20Report%20Master%202023.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1][Weekly Report Master 2023.xlsx]]
 
 *** MORNING RESET
 
