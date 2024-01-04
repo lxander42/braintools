@@ -1,7 +1,6 @@
 #+PROPERTY: BTFavicons OFF
 #+PROPERTY: BTTheme DARK
-#+PROPERTY: BTVersion 89
-#+PROPERTY: BTGDriveConnected false
+#+PROPERTY: BTVersion 19
 * PROJECTS
   :PROPERTIES:
   :VISIBILITY: folded
@@ -426,7 +425,7 @@ for things like Arket, Ami Paris, Our Legacy.
 
 *** [[https://thepoint.lamrc.net/Pages/default.aspx#][The Point]]
 
-*** [[https://secure.optumfinancial.com/portal/CC?rnd=1661187412382][Optum Financial Health pay]]
+*** [[https://secure.optumfinancial.com/portal/CC?rnd=1661187412382][Optum Financial Health pay - Reimbursement]]
 
 *** [[https://thepoint.lamrc.net/dept/CorpTravel/CafeServices/Pages/default.aspx][Café Services Overview]]
 
@@ -466,9 +465,6 @@ for things like Arket, Ami Paris, Our Legacy.
 **** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/224-A19277-710/C][Part 224-A19277-710:C]]
 
 ** PART ORDERING AND LOGISTICS
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 *** Requestor parts delivery request
   :PROPERTIES:
@@ -488,9 +484,6 @@ for things like Arket, Ami Paris, Our Legacy.
 *** [[https://s1.ariba.com/Buyer/Main/aw?awh=r&awssk=01sosls9&realm=mylam&dard=1#b0][Ariba Spend Management]]
 
 ** PART LOOKUP
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 *** [[https://lamresearch.sharepoint.com/:x:/r/sites/AetherLightTeam/_layouts/15/Doc.aspx?sourcedoc=%7BF48F2A71-9C19-4AA7-BCCF-03749789ED18%7D&file=Aether%20Product%20-%20Key%20Part%20numbers.xlsx&wdLOR=cD4DDA5EE-C652-4C75-B7B3-E9BEB329AC53&action=default&mobileredirect=true][Aether Product - Key Part numbers.xlsx]]
 
@@ -519,9 +512,6 @@ for things like Arket, Ami Paris, Our Legacy.
 *** [[https://techinfo.mylam.com/portal/#bulb][Home - MyLam]]
 
 ** ROUTINES
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 *** DAILY ORGANIZATION
 
@@ -564,9 +554,6 @@ for things like Arket, Ami Paris, Our Legacy.
 **** [[https://lamresearch.sharepoint.com/:x:/r/sites/Aether_Hardware_Team/_layouts/15/Doc.aspx?sourcedoc=%7B35CC56FE-99F0-4A21-9899-E4FD595021AE%7D&file=Weekly%20Report%20Master%202023.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1][Weekly Report Master 2023.xlsx]]
 
 *** MORNING RESET
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://www.youtube.com/watch?v=1yQX1y7zMAg][(9) Leaves on a Stream Meditation - YouTube]]
 
@@ -746,3 +733,7 @@ text based CAD software
 
 * 📝 Scratch
 Pages that you save without a Topic will be filed under Scratch
+
+* wishlist
+
+** [[https://giftful.com/loganalexander2][Giftful]]
