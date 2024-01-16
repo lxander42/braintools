@@ -1,6 +1,6 @@
 #+PROPERTY: BTFavicons OFF
-#+PROPERTY: BTTheme LIGHT
-#+PROPERTY: BTVersion 414
+#+PROPERTY: BTTheme DARK
+#+PROPERTY: BTVersion 54
 * PROJECTS
   :PROPERTIES:
   :VISIBILITY: folded
@@ -407,7 +407,12 @@ for things like Arket, Ami Paris, Our Legacy.
   :VISIBILITY: folded
   :END:
 
-*** [[https://lamresearch.sharepoint.com/sites/DPG_EngineeringTeam/SitePages/Design-Review-Template.aspx?source=https://lamresearch.sharepoint.com/sites/DPG_EngineeringTeam&xsdata=MDV8MDF8fGUxMDhkZDFhMjBiMzQ4NDE3YjdlMDhkYjllYWJhMjk2fDkxODA3OWRiYzkwMjRlMjliMjJjOTc2NDQxMGQwMzc1fDB8MHw2MzgyNzgyMzIyMDc0MjQzODJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPbTFsWlhScGJtZGZXVEpOTTFsNlNtdE5SMWwwVDFSb2FrOURNREJPVjFKcFRGUnJNbGxVWTNSTlIxbDVXVzFSZVU5SFJtMU5ha2w2UUhSb2NtVmhaQzUyTWk5dFpYTnpZV2RsY3k4eE5qa3lNakkyTkRFNU5EVTF8ZjlmNGQ4ZjFkMWY2NGRkZjdiN2UwOGRiOWVhYmEyOTZ8ZWQwOWVjODA3ZDk2NDQwNWJjN2IwMWQ5NTA4NjM0YTc%3D&sdata=T2hGdWRnTmUxR3hTN0w0dWNOM3craWp1Ym9KV0ZONEFoSHdIZDcvQ0U5VT0%3D&ovuser=918079db-c902-4e29-b22c-9764410d0375%2CLogan.Alexander%40lamresearch.com&OR=Teams-HL&CT=1692804853371&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA3MDMwNzM0NiIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D][DPG Design Review Template Update]]
+*** DPG Design Review templates
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://lamresearch.sharepoint.com/sites/DPGEngineering-DPGWiki/SitePages/Design-Review.aspx][Design Review]]
 
 *** [[https://lamresearch.sharepoint.com/sites/DPG_EngineeringTeam][DPG Engineering - Home]]
 
@@ -536,6 +541,9 @@ for things like Arket, Ami Paris, Our Legacy.
 *** DAILY ORGANIZATION
 
 *** morning organization
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 **** [[https://mail.google.com/mail/u/0/#inbox][Inbox (37) - loganpalexander@gmail.com - Gmail]]
 
@@ -555,9 +563,6 @@ for things like Arket, Ami Paris, Our Legacy.
 **** [[https://lamresearch-my.sharepoint.com/personal/logan_alexander_lamresearch_com/_layouts/15/Doc.aspx?sourcedoc={75474994-bf69-4e22-95e6-c082eaa135ad}&action=edit&wd=target%283.%20RESOURCES%2FROUTINES.one%7C0f9e236d-a498-4d44-a5ab-5c6efb6e4fb4%2FDaily%20Shutdown%7C1ef2e22b-7810-4bbb-ac52-2a03fc2edd29%2F%29&wdorigin=NavigationUrl][Daily shutdown Checklist]]
 
 *** weekly routine
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://lamresearch.sharepoint.com/:x:/r/sites/Aether_Hardware_Team/_layouts/15/Doc.aspx?sourcedoc=%7B59B40567-1423-4144-BC42-1A4531AE4422%7D&file=Weekly%20Report%20Master%202024.xlsx&wdLOR=c3989DD06-6DA8-4275-A539-54FA395A722B&action=default&mobileredirect=true][Weekly Report Master 2024.xlsx]]
 
