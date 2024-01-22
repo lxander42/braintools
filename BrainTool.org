@@ -1,6 +1,6 @@
 #+PROPERTY: BTFavicons OFF
-#+PROPERTY: BTTheme DARK
-#+PROPERTY: BTVersion 54
+#+PROPERTY: BTTheme LIGHT
+#+PROPERTY: BTVersion 11
 * PROJECTS
   :PROPERTIES:
   :VISIBILITY: folded
@@ -765,3 +765,30 @@ text based CAD software
 
 * 📝 Scratch
 Pages that you save without a Topic will be filed under Scratch
+
+* ANTHEM HEALTH INSURANCE
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+** [[https://membersecure.anthem.com/member/profile#communications-settings][Member Secure Application]]
+
+* APPLYING TO JOBS
+
+** [[https://boards.greenhouse.io/astranis/jobs/4133327006#app][Job Application for Senior Mechanical Engineer at Astranis]]
+
+** [[https://www.canva.com/design/DAF6j1aMHZI/DuMGiEvfTglvMKyjKfsnzA/edit][Copy of Tamer's Portfolio Template - US Letter]]
+
+** [[https://www.youtube.com/watch?v=Tt08KmFfIYQ][Write an Incredible Resume: 5 Golden Rules! - YouTube]]
+
+** [[https://www.bing.com/search?pglt=161&q=job+description+keyword+finder&cvid=bb741a00c188455ab1462aa20b5fa30b&gs_lcrp=EgZjaHJvbWUqBggAEAAYQDIGCAAQABhAMgYIARBFGDkyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxAAGEAyBggIEAAYQNIBCDQ4MzFqMGoxqAIAsAIA&FORM=ANNTA1&PC=U531][job description keyword finder - Search]]
+
+** [[https://resumeworded.com/target-results.php#hard_skills_tab][Resume Worded - Resume Targeted Results]]
+
+** [[https://jobs.ashbyhq.com/formenergy/ed9cb48e-aa3b-43b8-a327-f4aeb465ea14?departmentId=737ed80b-75cd-4bad-b8d2-4b3f0d09fd9d&locationId=332fd20d-99d4-4dbf-9e2e-6b12db65f1ac][Senior Mechanical Design Engineer, Cell Interfaces @ Form Energy, Inc]]
+
+** [[https://www.bing.com/search?pglt=161&q=glassdoor&cvid=ebfc5404d339453f8a496317af0c68cb&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQgxMzk5ajBqMagCALACAA&FORM=ANNTA1&PC=U531][glassdoor - Search]]
+
+** [[https://www.glassdoor.com/Job/san-francisco-ca-mechanical-engineer-jobs-SRCH_IL.0,16_IC1147401_KO17,36.htm][170 mechanical engineer Jobs in San Francisco, CA, January 2024 | Glassdoor]]
+
+** [[https://www.glassdoor.com/Overview/Working-at-Charm-Industrial-EI_IE7072810.11,27.htm][Working at Charm Industrial | Glassdoor]]
