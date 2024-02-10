@@ -1,10 +1,7 @@
 #+PROPERTY: BTFavicons OFF
-#+PROPERTY: BTTheme LIGHT
-#+PROPERTY: BTVersion 11
+#+PROPERTY: BTTheme DARK
+#+PROPERTY: BTVersion 271
 * PROJECTS
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 ** Switching PKM to obsidian
   :PROPERTIES:
@@ -66,6 +63,16 @@ for use on mobile syncing notes
 **** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/LRC+Design+Workspace/DW-011121/-?objectId=34064.31666.58107.43360][Design Workspace DW-011121:-]]
 
 *** CTS modeling report
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** Juneau chamber modeling excel sheet for baffles
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+***** [[https://lamresearch-my.sharepoint.com/:x:/r/personal/deepesh_gupta_lamresearch_com/_layouts/15/Doc.aspx?sourcedoc=%7B01414E31-A1BB-4F68-8305-D22E4844A1D6%7D&file=ICS.xlsx&wdLOR=cFCC4C6B0-999C-4C53-AEEF-38F6A65EDB73&nav=MTVfezA0M0M4NzRDLTNDOEEtNDg2QS05MTIzLTAwMDlGNUU2MzI5RX0&action=default&mobileredirect=true][ICS.xlsx]]
 
 **** [[https://lamresearch-my.sharepoint.com/:p:/p/deepesh_gupta/EcDQqGyP66hFtanAcc38ix4BhyVtnPQ3hApIPdR45tPImg?email=Logan.Alexander%40lamresearch.com&e=4%3AYBWw9J&fromShare=true&at=9&CID=314A556A-6744-45CF-9672-72EF723FF11D&wdLOR=cE6A29B35-656B-4FFC-8BB8-578E29E4F33E][MDL0001268_alignment_11-16-23.pptx]]
 
@@ -163,70 +170,58 @@ for use on mobile syncing notes
 
 ** PPL59 - EPL198 Top plate cleanup
 
-** FIVERR
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
-
-*** Milk Jug Holder Project - Fiverr
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
-
-**** [[https://www.mcmaster.com/9683K28/][Birch Rod, 36" Long, 1-3/4" Diameter | McMaster-Carr]]
-
-**** [[https://www.fiverr.com/orders/FO7230CD5B5C5/activities][Fiverr / Shopping / Status of your order No. FO7230CD5B5C5]]
-
-**** [[https://www.mcmaster.com/90128A274/][Zinc-Plated Alloy Steel Socket Head Screw, M8 x 1.25 mm Thread, 20 mm Long | McMaster-Carr]]
-
-**** [[https://www.mcmaster.com/96505A116/][Steel Oversized Washer, for M8 Screw Size, 8 mm ID, 16 mm OD | McMaster-Carr]]
-
-**** [[https://www.mcmaster.com/products/handle-grips/cut-to-length-grips/od~1-3-4/][McMaster-Carr]]
-
-**** [[https://www.mcmaster.com/95596A610/][Zinc Alloy Tapping Inserts for Softwood, Flanged, M8 x 1.25 mm Thread Size, 20 mm Installed Length | McMaster-Carr]]
-
-**** [[https://www.mcmaster.com/92470A242/][Phillips Rounded Head Screws for Sheet Metal, 18-8 Stainless Steel, Number 10 Size, 1/2" Long | McMaster-Carr]]
-
-**** [[https://www.mcmaster.com/4015A21/][Weather-Resistant Draw Latch, Zinc-Plated-Steel Strike Plate, 14-5/8" Long x 1-7/8" Wide | McMaster-Carr]]
-
-*** MINI FRIDGE PROJECT
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
-
-**** Miniature chiller unit
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
-
-***** [[https://www.coowor.com/p/20190731153903140G6GKAJ.htm;jsessionid=CD251BDEDB9DD0A3330D3C08420A8F22][12v 24v mini refrigerator cooling unit with miniature refrigeration compressor - Coowor.com]]
-
 * AREAS
   :PROPERTIES:
   :VISIBILITY: folded
   :END:
 
-** HEALTH
+** CAREER
   :PROPERTIES:
   :VISIBILITY: folded
   :END:
 
-*** [[https://dashboard.fit3d.com/wellness][Fit3D | Visualize a Healthier You]]
-
-*** [[https://www.fitbit.com/][Fitbit Dashboard]]
-
-** PRODUCTIVITY
+*** APPLYING TO JOBS
   :PROPERTIES:
   :VISIBILITY: folded
   :END:
 
-*** [[https://todoist.com/app/project/2291531883][todoist]]
+**** [[https://boards.greenhouse.io/astranis/jobs/4133327006#app][Job Application for Senior Mechanical Engineer at Astranis]]
 
-*** [[https://www.instapaper.com/u][Instapaper]]
+**** [[https://www.canva.com/design/DAF6j1aMHZI/DuMGiEvfTglvMKyjKfsnzA/edit][Copy of Tamer's Portfolio Template - US Letter]]
 
-*** [[https://zapier.com/app/dashboard][Zapier]]
+**** [[https://www.youtube.com/watch?v=Tt08KmFfIYQ][Write an Incredible Resume: 5 Golden Rules! - YouTube]]
 
-*** [[https://www.google.com/search?q=see+all+desktops+windows+10&rlz=1C1ONGR_enUS983US983&oq=see+all+desktops+&aqs=chrome.0.0i512l2j69i57j0i512l2j0i22i30l5.2950j0j7&sourceid=chrome&ie=UTF-8][see all desktops windows 10 - Google Search]]
+**** [[https://www.bing.com/search?pglt=161&q=job+description+keyword+finder&cvid=bb741a00c188455ab1462aa20b5fa30b&gs_lcrp=EgZjaHJvbWUqBggAEAAYQDIGCAAQABhAMgYIARBFGDkyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxAAGEAyBggIEAAYQNIBCDQ4MzFqMGoxqAIAsAIA&FORM=ANNTA1&PC=U531][job description keyword finder - Search]]
+
+**** [[https://resumeworded.com/target-results.php#hard_skills_tab][Resume Worded - Resume Targeted Results]]
+
+**** [[https://jobs.ashbyhq.com/formenergy/ed9cb48e-aa3b-43b8-a327-f4aeb465ea14?departmentId=737ed80b-75cd-4bad-b8d2-4b3f0d09fd9d&locationId=332fd20d-99d4-4dbf-9e2e-6b12db65f1ac][Senior Mechanical Design Engineer, Cell Interfaces @ Form Energy, Inc]]
+
+**** [[https://www.bing.com/search?pglt=161&q=glassdoor&cvid=ebfc5404d339453f8a496317af0c68cb&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQgxMzk5ajBqMagCALACAA&FORM=ANNTA1&PC=U531][glassdoor - Search]]
+
+**** [[https://www.glassdoor.com/Job/san-francisco-ca-mechanical-engineer-jobs-SRCH_IL.0,16_IC1147401_KO17,36.htm][170 mechanical engineer Jobs in San Francisco, CA, January 2024 | Glassdoor]]
+
+**** [[https://www.glassdoor.com/Overview/Working-at-Charm-Industrial-EI_IE7072810.11,27.htm][Working at Charm Industrial | Glassdoor]]
+
+** CODING
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** [[https://codebeautify.org/html-to-markdown][HTML to Markdown Converter]]
+
+** FASHION
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** Overseas and designer clothing
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+for things like Arket, Ami Paris, Our Legacy. 
+
+**** [[https://www.farfetch.com/shopping/men/items.aspx][Designer Fashion for Men | FARFETCH US]]
 
 ** FINANCE
   :PROPERTIES:
@@ -294,12 +289,79 @@ for use on mobile syncing notes
 
 **** [[https://archidekt.com/decks/sandbox][Sandbox (no save) - Archidekt]]
 
-** CODING
+** FREE/CHEAP ACTIVITIES
   :PROPERTIES:
   :VISIBILITY: folded
   :END:
 
-*** [[https://codebeautify.org/html-to-markdown][HTML to Markdown Converter]]
+*** Hiking without car
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://hikingbytransit.com/][Hiking by Transit]]
+
+** HEALTH
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** ANTHEM HEALTH INSURANCE
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://membersecure.anthem.com/member/profile#communications-settings][Member Secure Application]]
+
+*** Medical - NEMS - North East Medical Services
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://mychart.nems.org/MyChart/Home][MyChart - Home]]
+
+*** [[https://dashboard.fit3d.com/wellness][Fit3D | Visualize a Healthier You]]
+
+*** [[https://www.fitbit.com/][Fitbit Dashboard]]
+
+** ORGANIZATION
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** [[https://www.karenlin.me/ranker][Task Ranking Tool]]
+
+** PRODUCTIVITY
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** [[https://todoist.com/app/project/2291531883][todoist]]
+
+*** [[https://www.instapaper.com/u][Instapaper]]
+
+*** [[https://zapier.com/app/dashboard][Zapier]]
+
+*** [[https://www.google.com/search?q=see+all+desktops+windows+10&rlz=1C1ONGR_enUS983US983&oq=see+all+desktops+&aqs=chrome.0.0i512l2j69i57j0i512l2j0i22i30l5.2950j0j7&sourceid=chrome&ie=UTF-8][see all desktops windows 10 - Google Search]]
+
+** SEWING
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** [[https://zipworks.shinyapps.io/generator/][Dyneema packing cube pattern generator]]
+
+** SPIRITUALITY
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** Qi Gong
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://www.youtube.com/watch?v=QQGmjYyu_j8][(6) Just Practice This For 5 Min & Your All Energy Blockages Will Be Cleared| Chunyi Lin - YouTube]]
 
 ** TRADING
   :PROPERTIES:
@@ -316,45 +378,6 @@ TRADING
 *** [[https://www.youtube.com/@DaytradeWarrior/videos][(9) Warrior Trading - YouTube]]
 
 *** [[https://www.tradingview.com/screener/][Stock Screener: Search and Filter Stocks — TradingView]]
-
-** SEWING
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
-
-*** [[https://zipworks.shinyapps.io/generator/][Dyneema packing cube pattern generator]]
-
-** ORGANIZATION
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
-
-*** [[https://www.karenlin.me/ranker][Task Ranking Tool]]
-
-** FASHION
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
-
-*** Overseas and designer clothing
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
-for things like Arket, Ami Paris, Our Legacy. 
-
-**** [[https://www.farfetch.com/shopping/men/items.aspx][Designer Fashion for Men | FARFETCH US]]
-
-** SPIRITUALITY
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
-
-*** Qi Gong
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
-
-**** [[https://www.youtube.com/watch?v=QQGmjYyu_j8][(6) Just Practice This For 5 Min & Your All Energy Blockages Will Be Cleared| Chunyi Lin - YouTube]]
 
 * RESOURCES
   :PROPERTIES:
@@ -408,9 +431,6 @@ for things like Arket, Ami Paris, Our Legacy.
   :END:
 
 *** DPG Design Review templates
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://lamresearch.sharepoint.com/sites/DPGEngineering-DPGWiki/SitePages/Design-Review.aspx][Design Review]]
 
@@ -436,6 +456,13 @@ for things like Arket, Ami Paris, Our Legacy.
   :PROPERTIES:
   :VISIBILITY: folded
   :END:
+
+*** IDF - Invention Disclosure form patent applications
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://login.appcoll.com/LoginNew.aspx][AppColl]]
 
 *** [[https://cloud.workhuman.com/store/#/lam][Above and Beyond rewards]]
 
@@ -541,9 +568,6 @@ for things like Arket, Ami Paris, Our Legacy.
 *** DAILY ORGANIZATION
 
 *** morning organization
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://mail.google.com/mail/u/0/#inbox][Inbox (37) - loganpalexander@gmail.com - Gmail]]
 
@@ -622,12 +646,12 @@ text based CAD software
   :VISIBILITY: folded
   :END:
 
-*** Packaging BKM
+*** CAD MODELING
   :PROPERTIES:
   :VISIBILITY: folded
   :END:
 
-**** [[https://kmmatrix.fremont.lamrc.net/DViewerX?partnumber=202-017186-001&partrev=D][PROC,PKNG MEDIA SELECTION MATRIX 202-017186-001]]
+**** [[https://lamresearch.sharepoint.com/:w:/r/sites/SIP-eDMSTeam/_layouts/15/Doc.aspx?sourcedoc=%7B6e7c5f41-549c-4908-ab40-6d92b4d50aea%7D&action=default&mobileredirect=true][CAD70039.docx]]
 
 *** DRAFTING
   :PROPERTIES:
@@ -644,14 +668,28 @@ text based CAD software
 
 **** [[https://sharepoint.lamrc.net/dept/EPG/Eng/NPI/BKM_Community/ETCH_10112.pdf#search=ETCH%5F10112][Mechanical Drafting handbook]]
 
-*** [[https://lamresearch.sharepoint.com/sites/SIP-eDMSTeam][SIP-eDMS Team - Home]]
-
-*** CAD MODELING
+*** FMEA template
   :PROPERTIES:
   :VISIBILITY: folded
   :END:
 
-**** [[https://lamresearch.sharepoint.com/:w:/r/sites/SIP-eDMSTeam/_layouts/15/Doc.aspx?sourcedoc=%7B6e7c5f41-549c-4908-ab40-6d92b4d50aea%7D&action=default&mobileredirect=true][CAD70039.docx]]
+**** [[https://lamresearch.sharepoint.com/:x:/r/sites/SIP-eDMSTeam/_layouts/15/Doc.aspx?sourcedoc=%7BF43D7697-D549-48D7-AA05-0482FB644576%7D&file=REL71612.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1][REL71612.xlsx]]
+
+*** [[https://lamresearch.sharepoint.com/sites/SIP-eDMSTeam][SIP-eDMS Team - Home]]
+
+*** Innovation Design Engineering Authorities (iDEA)
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://lamresearch.sharepoint.com/sites/DPGEngineering-DPGWiki/SitePages/Innovation%20Design%20Engineering%20Authorities%20(iDEA).aspx][DPG Engineering-DPG Wiki - Innovation Design Engineering Authorities (iDEA)]]
+
+*** Packaging BKM
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://kmmatrix.fremont.lamrc.net/DViewerX?partnumber=202-017186-001&partrev=D][PROC,PKNG MEDIA SELECTION MATRIX 202-017186-001]]
 
 ** SUPPLIERS
   :PROPERTIES:
@@ -670,16 +708,10 @@ text based CAD software
 *** [[https://www.loom.com/looms/videos][Library | Loom]]
 
 ** WISHLIST
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 *** [[https://giftful.com/loganalexander2][Giftful]]
 
 * ARCHIVE
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 ** OSREVENGE
   :PROPERTIES:
@@ -692,6 +724,44 @@ text based CAD software
   :END:
 
 **** [[https://account.godaddy.com/products][Products]]
+
+** FIVERR
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** Milk Jug Holder Project - Fiverr
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://www.mcmaster.com/9683K28/][Birch Rod, 36" Long, 1-3/4" Diameter | McMaster-Carr]]
+
+**** [[https://www.fiverr.com/orders/FO7230CD5B5C5/activities][Fiverr / Shopping / Status of your order No. FO7230CD5B5C5]]
+
+**** [[https://www.mcmaster.com/90128A274/][Zinc-Plated Alloy Steel Socket Head Screw, M8 x 1.25 mm Thread, 20 mm Long | McMaster-Carr]]
+
+**** [[https://www.mcmaster.com/96505A116/][Steel Oversized Washer, for M8 Screw Size, 8 mm ID, 16 mm OD | McMaster-Carr]]
+
+**** [[https://www.mcmaster.com/products/handle-grips/cut-to-length-grips/od~1-3-4/][McMaster-Carr]]
+
+**** [[https://www.mcmaster.com/95596A610/][Zinc Alloy Tapping Inserts for Softwood, Flanged, M8 x 1.25 mm Thread Size, 20 mm Installed Length | McMaster-Carr]]
+
+**** [[https://www.mcmaster.com/92470A242/][Phillips Rounded Head Screws for Sheet Metal, 18-8 Stainless Steel, Number 10 Size, 1/2" Long | McMaster-Carr]]
+
+**** [[https://www.mcmaster.com/4015A21/][Weather-Resistant Draw Latch, Zinc-Plated-Steel Strike Plate, 14-5/8" Long x 1-7/8" Wide | McMaster-Carr]]
+
+*** MINI FRIDGE PROJECT
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** Miniature chiller unit
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+***** [[https://www.coowor.com/p/20190731153903140G6GKAJ.htm;jsessionid=CD251BDEDB9DD0A3330D3C08420A8F22][12v 24v mini refrigerator cooling unit with miniature refrigeration compressor - Coowor.com]]
 
 ** AMAZON BUSINESS
   :PROPERTIES:
@@ -765,30 +835,3 @@ text based CAD software
 
 * 📝 Scratch
 Pages that you save without a Topic will be filed under Scratch
-
-* ANTHEM HEALTH INSURANCE
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
-
-** [[https://membersecure.anthem.com/member/profile#communications-settings][Member Secure Application]]
-
-* APPLYING TO JOBS
-
-** [[https://boards.greenhouse.io/astranis/jobs/4133327006#app][Job Application for Senior Mechanical Engineer at Astranis]]
-
-** [[https://www.canva.com/design/DAF6j1aMHZI/DuMGiEvfTglvMKyjKfsnzA/edit][Copy of Tamer's Portfolio Template - US Letter]]
-
-** [[https://www.youtube.com/watch?v=Tt08KmFfIYQ][Write an Incredible Resume: 5 Golden Rules! - YouTube]]
-
-** [[https://www.bing.com/search?pglt=161&q=job+description+keyword+finder&cvid=bb741a00c188455ab1462aa20b5fa30b&gs_lcrp=EgZjaHJvbWUqBggAEAAYQDIGCAAQABhAMgYIARBFGDkyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxAAGEAyBggIEAAYQNIBCDQ4MzFqMGoxqAIAsAIA&FORM=ANNTA1&PC=U531][job description keyword finder - Search]]
-
-** [[https://resumeworded.com/target-results.php#hard_skills_tab][Resume Worded - Resume Targeted Results]]
-
-** [[https://jobs.ashbyhq.com/formenergy/ed9cb48e-aa3b-43b8-a327-f4aeb465ea14?departmentId=737ed80b-75cd-4bad-b8d2-4b3f0d09fd9d&locationId=332fd20d-99d4-4dbf-9e2e-6b12db65f1ac][Senior Mechanical Design Engineer, Cell Interfaces @ Form Energy, Inc]]
-
-** [[https://www.bing.com/search?pglt=161&q=glassdoor&cvid=ebfc5404d339453f8a496317af0c68cb&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQgxMzk5ajBqMagCALACAA&FORM=ANNTA1&PC=U531][glassdoor - Search]]
-
-** [[https://www.glassdoor.com/Job/san-francisco-ca-mechanical-engineer-jobs-SRCH_IL.0,16_IC1147401_KO17,36.htm][170 mechanical engineer Jobs in San Francisco, CA, January 2024 | Glassdoor]]
-
-** [[https://www.glassdoor.com/Overview/Working-at-Charm-Industrial-EI_IE7072810.11,27.htm][Working at Charm Industrial | Glassdoor]]
