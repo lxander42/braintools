@@ -1,22 +1,14 @@
-#+PROPERTY: BTFavicons OFF
-#+PROPERTY: BTTheme DARK
-#+PROPERTY: BTVersion 320
+#+PROPERTY: BTVersion 478
 * PROJECTS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 ** Switching PKM to obsidian
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 *** Tasks
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** TODO Import all stuff into obsidian
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 https://todoist.com/showTask?id=7323612399
 
 ***** [[https://github.com/lxander42/PKM][lxander42/PKM: My personal knowledge management system]]
@@ -32,16 +24,18 @@ for use on mobile syncing notes
 ***** [[https://www.youtube.com/watch?v=nJ660t5ku9A][(8) Rethinking MY PKM: How I Organize Everything In Obsidian - YouTube]]
 
 ** PPL95 - COOLING STATION
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
+
+*** [[https://lamresearch.sharepoint.com/:x:/r/sites/ATD-PDR-AetherTeam/_layouts/15/Doc.aspx?sourcedoc=%7B956E22EC-5C60-4A7A-9743-CB691A513A77%7D&file=Juneau_Transient_Drafting%20List.xlsx&wdLOR=c8F650D4A-C0DD-4E31-A1FB-0A279EA2B7C7&action=default&mobileredirect=true][Juneau_Transient_Drafting List.xlsx]]
+
+*** [[https://lamresearch.sharepoint.com/sites/Aether_Hardware_Team/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=cd7K5c&ovuser=918079db%2Dc902%2D4e29%2Db22c%2D9764410d0375%2CLogan%2EAlexander%40lamresearch%2Ecom&OR=Teams%2DHL&CT=1716993450734&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNDA0MTEyMjMxNSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&CID=5b6f2da1%2D30c1%2D5000%2Da57c%2D56fd5dc75240&cidOR=SPO&FolderCTID=0x012000007C68C671AA1B4585A90B30F2CACBF1&id=%2Fsites%2FAether%5FHardware%5FTeam%2FShared%20Documents%2FHardware%20Engineering%2FJUNEAU%20DRAWING%20CHECK][JUNEAU DRAWING CHECK - Patrick's list of part drawings]]
+
+*** Juneau BOM work
+
+**** [[https://lamresearch-my.sharepoint.com/:x:/r/personal/ryan_mccoy_lamresearch_com/_layouts/15/Doc.aspx?sourcedoc=%7B78046D13-F378-4B8B-B051-E5277C7EC85B%7D&file=JUNEAU%20IMEC%20FLAT%20BOM.xlsx&fromShare=true&action=default&mobileredirect=true][JUNEAU IMEC FLAT BOM.xlsx]]
 
 *** Tasks
 
 **** TODO Propose a design for CTS chamber and liner, mock up cad
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 ***** [[https://techinfo.mylam.com/portal/group/mylam/contenttyperesults][Kiyo GX myLam]]
 
@@ -56,30 +50,18 @@ for use on mobile syncing notes
 **** TODO Put in modeling report request for ICS baseline pumping
 
 *** DESIGN WORKSPACE
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/LRC+Design+Workspace/DW-011121/-?objectId=34064.31666.58107.43360][Design Workspace DW-011121:-]]
 
 *** CTS modeling report
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** Juneau chamber modeling excel sheet for baffles
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 ***** [[https://lamresearch-my.sharepoint.com/:x:/r/personal/deepesh_gupta_lamresearch_com/_layouts/15/Doc.aspx?sourcedoc=%7B01414E31-A1BB-4F68-8305-D22E4844A1D6%7D&file=ICS.xlsx&wdLOR=cFCC4C6B0-999C-4C53-AEEF-38F6A65EDB73&nav=MTVfezA0M0M4NzRDLTNDOEEtNDg2QS05MTIzLTAwMDlGNUU2MzI5RX0&action=default&mobileredirect=true][ICS.xlsx]]
 
 **** [[https://lamresearch-my.sharepoint.com/:p:/p/deepesh_gupta/EcDQqGyP66hFtanAcc38ix4BhyVtnPQ3hApIPdR45tPImg?email=Logan.Alexander%40lamresearch.com&e=4%3AYBWw9J&fromShare=true&at=9&CID=314A556A-6744-45CF-9672-72EF723FF11D&wdLOR=cE6A29B35-656B-4FFC-8BB8-578E29E4F33E][MDL0001268_alignment_11-16-23.pptx]]
 
 *** foreline design guidelines
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://lamresearch-my.sharepoint.com/:p:/p/mahesh_shimoga/ETObLEpXqgFFtjJHTn74qHcBvsDvP6QnpiHRy9_8frZGcw?email=Logan.Alexander%40lamresearch.com&e=4%3AcpLQJl&fromShare=true&at=9&CID=E969BEC1-623F-480E-BCAE-280383BE50B3&wdLOR=c59D07F3D-4921-43A5-8CE5-09D4CD417ADD][Foreline Design guidelines - Degas modules.pptx]]
 
@@ -88,28 +70,16 @@ for use on mobile syncing notes
 *** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/LRC+Design+Workspace/DW-008205/-][Design Workspace DW-008205:-]]
 
 *** TASKS
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** TASK ARCHIVE
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 ***** DONE Get Add-Delete BOM for phase 2 to Deanna
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 ****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/680-B32857-001/A?objectId=34064.31666.8073.6343][Part 680-B32857-001:A]]
 
 ****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/857-B32860-001/A][Part 857-B32860-001:A]]
 
 ***** DONE Check Aether GP panels
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 ****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/714-A38182-001/C?objectId=34064.31666.19360.19052&embed=false][Part 714-A38182-001:C]]
 
@@ -122,9 +92,6 @@ for use on mobile syncing notes
 ****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Change+Action/CA-0308051/-?embed=false&objectId=34064.31666.22001.61698][Change Action CA-0308051:-]]
 
 ***** DONE Check RF Bracket Drawing
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 ****** [[https://lamresearch.quickbase.com/db/bgmh64wg7?a=er&rid=41755&rl=ctey][Fremont Pilot Operations - Edit Issue #41755]]
 
@@ -135,18 +102,12 @@ for use on mobile syncing notes
 ****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/839-A14667-007/A?objectId=34064.31666.26813.6584][Part 839-A14667-007:A]]
 
 ***** DONE Review new top plate PN
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 ****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/715-A10365-007/C][Part 715-A10365-007:C]]
 
 ****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/715-A10365-007/D?objectId=34064.31666.8470.63067][Part 715-A10365-007:D]]
 
 ***** DONE approve CA-0308582 for divert valve mounting brackets
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 ****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/714-A12966-003/B?objectId=34064.31666.46186.63408][Part 714-A12966-003:B]]
 
@@ -159,25 +120,25 @@ for use on mobile syncing notes
 ****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Change+Action/CA-0308582/-?objectId=34064.31666.46187.4942][Change Action CA-0308582:-]]
 
 *** New sensor tree bracket fit checking
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://lamresearch-my.sharepoint.com/:p:/p/patrick_hamel/EcO_9Ega9xtNt03-Ftygl6YBgp593O9IXdaNdWup6-PpTw][monomoter tree bracket.pptx]]
+
+** Aether GP Pneumatic routing
+
+*** [[https://lamresearch-my.sharepoint.com/personal/deanna_leong_lamresearch_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fdeanna%5Fleong%5Flamresearch%5Fcom%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files%2F859%2DA21856%2D007%5FRevE%5FTexonOMS%5FMAIN2%2Epdf&parent=%2Fpersonal%2Fdeanna%5Fleong%5Flamresearch%5Fcom%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files&ga=1][Texon OMS number 2]]
+
+*** [[https://lamresearch-my.sharepoint.com/personal/deanna_leong_lamresearch_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fdeanna%5Fleong%5Flamresearch%5Fcom%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files%2F859%2DA21856%2D007%5FRevE%5FTexonOMS%5FMAIN1%2Epdf&parent=%2Fpersonal%2Fdeanna%5Fleong%5Flamresearch%5Fcom%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files&ga=1][Texon OMS document]]
 
 ** PPL59 - EPL198 Top plate cleanup
 
 * AREAS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 ** CAREER
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 *** APPLYING TO JOBS
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://boards.greenhouse.io/astranis/jobs/4133327006#app][Job Application for Senior Mechanical Engineer at Astranis]]
 
@@ -198,9 +159,6 @@ for use on mobile syncing notes
 **** [[https://www.glassdoor.com/Overview/Working-at-Charm-Industrial-EI_IE7072810.11,27.htm][Working at Charm Industrial | Glassdoor]]
 
 ** CODING
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 *** [[https://roadmap.sh/full-stack][Full Stack Developer Roadmap]]
 Dev roadmap
@@ -208,27 +166,15 @@ Dev roadmap
 *** [[https://codebeautify.org/html-to-markdown][HTML to Markdown Converter]]
 
 ** FASHION
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 *** Overseas and designer clothing
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 for things like Arket, Ami Paris, Our Legacy. 
 
 **** [[https://www.farfetch.com/shopping/men/items.aspx][Designer Fashion for Men | FARFETCH US]]
 
 ** FINANCE
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 *** BANKING
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://secure07a.chase.com/web/auth/dashboard#/dashboard/overviewAccounts/overview/index][Sign in - chase.com]]
 
@@ -239,9 +185,6 @@ for things like Arket, Ami Paris, Our Legacy.
 **** [[https://card.apple.com/][Apple Card]]
 
 *** CRYPTO
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://game.defikingdoms.com/#/][Defi Kingdom]]
 
@@ -254,9 +197,6 @@ for things like Arket, Ami Paris, Our Legacy.
 **** [[https://www.binance.us/en/markets][Buy and Sell Bitcoin, Ethereum, and other Cryptocurrency | Binance US]]
 
 *** INVESTMENTS
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://workplaceservices.fidelity.com/mybenefits/navstation/navigation][Fidelity NetBenefits Homepage]]
 
@@ -273,47 +213,26 @@ for things like Arket, Ami Paris, Our Legacy.
 **** [[https://connect.secure.wellsfargo.com/accounts/inquiry/summary/home/default?_x=K5r8PLCRzrAOjcvLkGqN3-CoOi5S8kV9#/accounts/home/accountsummary][Account Summary - Wells Fargo]]
 
 ** GAMING
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 *** MTG
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://deckbox.org/sets/3144194][loganpalexander's Inventory - Deckbox]]
 
 **** [[https://archidekt.com/decks/sandbox][Sandbox (no save) - Archidekt]]
 
 ** FREE/CHEAP ACTIVITIES
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 *** Hiking without car
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://hikingbytransit.com/][Hiking by Transit]]
 
 ** HEALTH
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 *** ANTHEM HEALTH INSURANCE
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://membersecure.anthem.com/member/profile#communications-settings][Member Secure Application]]
 
 *** Medical - NEMS - North East Medical Services
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://mychart.nems.org/MyChart/Home][MyChart - Home]]
 
@@ -322,16 +241,13 @@ for things like Arket, Ami Paris, Our Legacy.
 *** [[https://www.fitbit.com/][Fitbit Dashboard]]
 
 ** ORGANIZATION
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 *** [[https://www.karenlin.me/ranker][Task Ranking Tool]]
 
 ** PRODUCTIVITY
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
+
+*** [[https://loop.cloud.microsoft/p/eyJ3Ijp7InUiOiJodHRwczovL2xhbXJlc2VhcmNoLnNoYXJlcG9pbnQuY29tLz9uYXY9Y3owbE1rWW1aRDFpSVVGNWRITnZUM2s1Wm10eFNXVk5ibVZzUWtkcGVtWXdUR0pOUTFGNlYxcFFkSGhMWTFOYVUwOUZaa3BMVFd4YVNUTTNOMEpVWVhkeU5HSkJaa3g1TW5BbVpqMHdNVUZEU0ZWRVNGUlZSVkJJUXpJMFJsZFNWa2haUWxZMFZFUk5TRFJhVlVneUptTTlKbVpzZFdsa1BURSUzRCIsInIiOmZhbHNlfSwicCI6eyJ1IjoiaHR0cHM6Ly9sYW1yZXNlYXJjaC5zaGFyZXBvaW50LmNvbS86Zmw6L3IvY29udGVudHN0b3JhZ2UvQ1NQX2EwNmMyYjAzLWJkZWMtNGE3ZS04ODc4LWM5ZGU5NDExYTJjZC9Eb2N1bWVudCUyMExpYnJhcnkvTG9vcEFwcERhdGEvVW50aXRsZWQubG9vcD9kPXc2M2U1Njc5ZDg3NGU0MjM5YTczZTkxZmVlMmJmYjMyYyZjc2Y9MSZ3ZWI9MSZuYXY9Y3owbE1rWmpiMjUwWlc1MGMzUnZjbUZuWlNVeVJrTlRVRjloTURaak1tSXdNeTFpWkdWakxUUmhOMlV0T0RnM09DMWpPV1JsT1RReE1XRXlZMlFtWkQxaUlVRjVkSE52VDNrNVptdHhTV1ZOYm1Wc1FrZHBlbVl3VEdKTlExRjZWMXBRZEhoTFkxTmFVMDlGWmtwTFRXeGFTVE0zTjBKVVlYZHlOR0pCWmt4NU1uQW1aajB3TVVGRFNGVkVTRlUxVFRkVFYwZFVWVWhJUmtKTFQxQlZVamN6VWt3M1RWcE5KbU05SlRKR0ptWnNkV2xrUFRFbVlUMU1iMjl3UVhCd0puQTlKVFF3Wm14MWFXUjRKVEpHYkc5dmNDMXdZV2RsTFdOdmJuUmhhVzVsY2laNFBTVTNRaVV5TW5jbE1qSWxNMEVsTWpKVU1GSlVWVWg0YzFsWE1YbGFXRTVzV1ZoS2FtRkROWHBoUjBaNVdsaENkbUZYTlRCTWJVNTJZbGg0YVVsVlJqVmtTRTUyVkROck5WcHRkSGhUVjFaT1ltMVdjMUZyWkhCbGJWbDNWRWRLVGxFeFJqWldNWEJSWkVob1RGa3hUbUZWTURsR1dtdHdURlJYZUdGVFZFMHpUakJLVlZsWVpIbE9SMHBDV210NE5VMXVRamhOUkVaQ1VUQm9WbEpGYUZWV1ZWWlJVMFZOZVU1RldsaFZiRnBKVjFWS1YwNUdVa1ZVVldjd1YyeFdTVTFuSlRORUpUTkVKVEl5SlRKREpUSXlhU1V5TWlVelFTVXlNamd4WXpsaE1HTm1MV0ptTmpjdE5EaGpNUzFpTXpOa0xXSmtPV1kyTVRkbU1EQXdNU1V5TWlVM1JBJTNEJTNEIiwiciI6ZmFsc2V9LCJpIjp7ImkiOiI4MWM5YTBjZi1iZjY3LTQ4YzEtYjMzZC1iZDlmNjE3ZjAwMDEifX0%3D][Impact Effort Matrix - Loop component for task prioritization]]
+for prioritizing tasks throughout the week
 
 *** [[https://todoist.com/app/project/2291531883][todoist]]
 
@@ -342,28 +258,16 @@ for things like Arket, Ami Paris, Our Legacy.
 *** [[https://www.google.com/search?q=see+all+desktops+windows+10&rlz=1C1ONGR_enUS983US983&oq=see+all+desktops+&aqs=chrome.0.0i512l2j69i57j0i512l2j0i22i30l5.2950j0j7&sourceid=chrome&ie=UTF-8][see all desktops windows 10 - Google Search]]
 
 ** SEWING
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 *** [[https://zipworks.shinyapps.io/generator/][Dyneema packing cube pattern generator]]
 
 ** SPIRITUALITY
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 *** Qi Gong
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://www.youtube.com/watch?v=QQGmjYyu_j8][(6) Just Practice This For 5 Min & Your All Energy Blockages Will Be Cleared| Chunyi Lin - YouTube]]
 
 ** TRADING
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 TRADING
 
 *** [[https://www.warriortrading.com/day-trading-watch-list-top-stocks-to-watch/#toc1][Watch List of the Best Stocks for Day Trading – Updated Daily | Warrior Trading]]
@@ -377,19 +281,27 @@ TRADING
 *** [[https://www.tradingview.com/screener/][Stock Screener: Search and Filter Stocks — TradingView]]
 
 * RESOURCES
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 ** AETHER LINKS
   :PROPERTIES:
   :VISIBILITY: folded
   :END:
 
+*** Aether CAD assembly management program - bi-weekly status report
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://lamresearch.sharepoint.com/:x:/r/sites/AetherLightTeam/_layouts/15/Doc.aspx?sourcedoc=%7BE41B7657-EF39-40C3-BB42-474B8FBED165%7D&file=Aether%20CAMP%20Projects%20-%20Biweekly%20status%20report.xlsx&wdLOR=cD922744C-466B-455B-BBEB-C959536DBC93&fromShare=true&action=default&mobileredirect=true][Aether CAMP Projects - Biweekly status report.xlsx]]
+
 *** [[https://lamresearch.quickbase.com/db/bqx6mdet3][Aether PPL - Default Dashboard]]
 
 *** [[https://lamresearch.sharepoint.com/sites/Aether_Hardware_Team][Aether Hardware Team - Home]]
 
 *** [[https://lamresearch.sharepoint.com/sites/ATD-PDR-AetherTeam][ATD-PDR-Aether - Home]]
-
-*** [[https://lamresearch.sharepoint.com/sites/Aether_Hardware_Team/Lists/Aether%20HW%20Team%20Calendar/calendar.aspx][Aether HW Team Calendar - Calendar]]
 
 *** [[https://lamresearch.sharepoint.com/sites/ext_WatlowAether?e=1%3Afb1582c8a36f4c23aa1b6a6d2af2c7b2][WatlowAether Extranet - Home]]
 
@@ -398,14 +310,20 @@ TRADING
   :VISIBILITY: folded
   :END:
 
+*** [[https://go.v7labs.com/018ef226-24e3-7993-9b96-6d1ddd942dbe/projects][V7 Go - AI tool for scaling systems]]
+
 *** chatGPT
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://chat.openai.com/][ChatGPT]]
 
 *** [[https://beta.openai.com/dashboard][OpenAI API]]
+
+** BACKPACKING
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** [[https://lighterpack.com/r/trqbd0][4 day gear list]]
 
 ** BOOKS
   :PROPERTIES:
@@ -413,13 +331,13 @@ TRADING
   :END:
 
 *** Connors book
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://docs.google.com/document/d/1s1VnZcVldzYwnC6U1zMSRtzkLWOTqiQjeN1MnZftdVo/edit?pli=1][Under Belcian Skies: Book 1 v1 - Google Docs]]
 
 ** DPG
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** DPG Design Review templates
 
@@ -429,7 +347,17 @@ TRADING
 
 *** [[https://lamresearch.sharepoint.com/sites/DPGEngineering-DPGWiki/SitePages/DPG-Engineering-Wiki-Home.aspx][DPG Engineering Wiki Home]]
 
+** COMPUTATIONAL MODELING
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** [[https://www.comsol.com/product-download/6.2][Download COMSOL Multiphysics® simulation software and COMSOL Server™ here]]
+
 ** EXCEL TOOLS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** [[https://www.convertcsv.com/csv-to-markdown.htm][CSV To Markdown Converter]]
 Converting from a copied excel/CSV range to markdown table
@@ -444,6 +372,19 @@ Converting from a copied excel/CSV range to markdown table
 *** [[https://sharepoint.lamrc.net/dept/EPG/Eng/default.aspx][Home - Etch Engineering]]
 
 ** LAM LINKS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** Lam Manufacturing documentation
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+**** [[https://lamresearch.sharepoint.com/sites/PMPM/SOE%20%20Fremont/Forms/A%20to%20Z%20sort.aspx?e=5%3A550cb158935b42bd85ee3e2e64ce7278&sharingv2=true&fromShare=true&at=9&cid=7a0e8063%2Dd3e4%2D415b%2D917f%2D7705e09875b9&FolderCTID=0x0120003CF0860E4640044D85D102CD5D7F4402&id=%2Fsites%2FPMPM%2FSOE%20%20Fremont%2FAether%20GP&viewid=e978310c%2D3c0e%2D4d84%2Dad0c%2Dd8af2d9aff9b][PMPM - Aether GP - A to Z sort]]
+
+**** [[https://lamresearch.sharepoint.com/sites/PMPM/SOE%20%20Fremont/Forms/AllItems.aspx][PMPM - SOE - Fremont - All Documents]]
+for info on how all the products (Aether GP, Kiyo, GD, etc...) are manufactured
 
 *** [[https://thepoint.lamrc.net/dept/EngPortal/Pages/Databases_and_Tools_v2.aspx][Engineering databases and tools]]
 
@@ -477,9 +418,6 @@ Converting from a copied excel/CSV range to markdown table
   :END:
 
 *** CAD
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://freefem.org/gallery/roots][FreeFEM - Water and nutrient uptake by plant roots]]
 
@@ -491,9 +429,6 @@ Converting from a copied excel/CSV range to markdown table
   :END:
 
 *** AETHER GP INTERCONNECT DIAGRAM
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/224-A19277-710/C][Part 224-A19277-710:C]]
 
@@ -502,16 +437,13 @@ Converting from a copied excel/CSV range to markdown table
   :VISIBILITY: folded
   :END:
 
+*** [[https://apps.powerapps.com/play/e/7b81d53e-762e-4084-83c7-425d31b78fc1/a/98e8af26-65a3-45b9-a311-1cb00da7d776?tenantId=918079db-c902-4e29-b22c-9764410d0375][EngineeringRequestForm - Power Apps]]
+
 *** Requestor parts delivery request
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://lamresearch.quickbase.com/db/btc26twus?a=nwr][GLO Performance - Add Request]]
 
 *** [[https://lamresearch-my.sharepoint.com/:x:/r/personal/logan_alexander_lamresearch_com/_layouts/15/Doc.aspx?sourcedoc=%7B2CCE02B6-222D-42F4-8184-906346E80E8F%7D&file=EngineeringControlDocumentV0.5.xlsm&nav=MTVfe0M0REMwNTI1LUEwOEYtNDJBMi1BRDQ1LUREOTVGODBDRDA0Rn0&action=default&mobileredirect=true][EngineeringControlDocumentV0.5.xlsm]]
-
-*** [[https://apps.powerapps.com/play/e/7b81d53e-762e-4084-83c7-425d31b78fc1/a/98e8af26-65a3-45b9-a311-1cb00da7d776?tenantId=918079db-c902-4e29-b22c-9764410d0375][EngineeringRequestForm - Power Apps]]
 
 *** [[https://apps.powerapps.com/play/e/7b81d53e-762e-4084-83c7-425d31b78fc1/a/dcc4f16d-de3d-420e-9be2-880887c8d3fe?tenantId=918079db-c902-4e29-b22c-9764410d0375][VirtualWarehouse - Power Apps]]
 
@@ -520,6 +452,9 @@ Converting from a copied excel/CSV range to markdown table
 *** [[https://s1.ariba.com/Buyer/Main/aw?awh=r&awssk=01sosls9&realm=mylam&dard=1#b0][Ariba Spend Management]]
 
 ** PART LOOKUP
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** [[https://lamresearch.sharepoint.com/:x:/r/sites/AetherLightTeam/_layouts/15/Doc.aspx?sourcedoc=%7BF48F2A71-9C19-4AA7-BCCF-03749789ED18%7D&file=Aether%20Product%20-%20Key%20Part%20numbers.xlsx&wdLOR=cD4DDA5EE-C652-4C75-B7B3-E9BEB329AC53&action=default&mobileredirect=true][Aether Product - Key Part numbers.xlsx]]
 
@@ -552,8 +487,6 @@ Converting from a copied excel/CSV range to markdown table
   :VISIBILITY: folded
   :END:
 
-*** DAILY ORGANIZATION
-
 *** morning organization
 
 **** [[https://mail.google.com/mail/u/0/#inbox][Inbox (37) - loganpalexander@gmail.com - Gmail]]
@@ -562,41 +495,15 @@ Converting from a copied excel/CSV range to markdown table
 
 **** [[https://open.spotify.com/playlist/2RHfgparZ8PzI4tJnYtVof][ADHD Techno Focus - Full Concentration - playlist by Vinicius Gallotti | Spotify]]
 
-*** Daily Shutdown
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
-
-**** [[https://lamresearch-my.sharepoint.com/personal/logan_alexander_lamresearch_com/_layouts/15/Doc.aspx?sourcedoc={75474994-bf69-4e22-95e6-c082eaa135ad}&action=edit&wd=target%283.%20RESOURCES%2FWEEKLY%20UPDATES.one%7Cc7baf8e4-cb61-4abf-984d-ded25c1f1dac%2FWeekly%20Update%20Template%7Cc46dc23f-035e-4ef4-a170-3fe4c98fd31c%2F%29&wdorigin=NavigationUrl][Weekly updates]]
-
-**** [[https://todoist.com/app/activity?userId=39601082&eventType=item%3Acompleted][Completed tasks]]
-
-**** [[https://lamresearch-my.sharepoint.com/personal/logan_alexander_lamresearch_com/_layouts/15/Doc.aspx?sourcedoc={75474994-bf69-4e22-95e6-c082eaa135ad}&action=edit&wd=target%283.%20RESOURCES%2FROUTINES.one%7C0f9e236d-a498-4d44-a5ab-5c6efb6e4fb4%2FDaily%20Shutdown%7C1ef2e22b-7810-4bbb-ac52-2a03fc2edd29%2F%29&wdorigin=NavigationUrl][Daily shutdown Checklist]]
-
 *** weekly routine
 
 **** [[https://lamresearch.sharepoint.com/:x:/r/sites/Aether_Hardware_Team/_layouts/15/Doc.aspx?sourcedoc=%7B59B40567-1423-4144-BC42-1A4531AE4422%7D&file=Weekly%20Report%20Master%202024.xlsx&wdLOR=c3989DD06-6DA8-4275-A539-54FA395A722B&action=default&mobileredirect=true][Weekly Report Master 2024.xlsx]]
-
-**** [[https://lamresearch.quickbase.com/db/bqx6mdexb?a=dr&r=e5&rl=cukb][Aether PPL - EPL #155]]
-
-**** [[https://lamresearch.quickbase.com/db/bqx6mdexb?a=er&rid=198&rl=dpny][Aether PPL - Edit EPL #198]]
-
-**** [[https://lamresearch.quickbase.com/db/bqx6mdexb?a=er&rid=155&rl=cukb][Aether PPL - Edit EPL #155]]
-
-**** [[https://lamresearch.quickbase.com/db/bqx6mdevt?a=er&rid=31&rl=cuud][Aether PPL - Edit Project #31]]
-
-**** [[https://lamresearch.quickbase.com/db/bqx6mdevt?a=er&rid=95&rl=emba][Aether PPL - Edit Project #95]]
-
-**** [[https://lamresearch-my.sharepoint.com/personal/logan_alexander_lamresearch_com/_layouts/15/Doc.aspx?sourcedoc={75474994-bf69-4e22-95e6-c082eaa135ad}&action=edit&wd=target%283.%20RESOURCES%2FROUTINES.one%7C0f9e236d-a498-4d44-a5ab-5c6efb6e4fb4%2FWeekly%20Updates%7Cc2cec6af-6eb6-40a4-a08a-376ee83a698d%2F%29&wdorigin=NavigationUrl][Logan @ Lam Research]]
 
 *** MORNING RESET
 
 **** [[https://www.youtube.com/watch?v=1yQX1y7zMAg][(9) Leaves on a Stream Meditation - YouTube]]
 
 *** FOCUS TIME
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://calendar.google.com/calendar/u/0/r/agenda][Google Calendar - Schedule starting Thursday, November 2, 2023]]
 
@@ -620,45 +527,37 @@ text based CAD software
 **** [[https://docs.sw.siemens.com/en-US/doc/209349590/PL20200522120320484.assemblies/arrangements_arrange_dialog][Arrangements in NX]]
 
 *** EXCEL TOOLS
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://medium.com/codex/how-to-build-a-custom-ribbon-in-excel-a3bc531551e1][How to Build a Custom Ribbon in Excel | by Andrew Moss | CodeX | Medium]]
 
 **** [[https://lamresearch.sharepoint.com/:x:/r/sites/SIP-eDMSTeam/_layouts/15/Doc.aspx?sourcedoc=%7B5d3b1907-f162-4ed6-a4bc-bdbc4b2f49c2%7D&action=default&mobileredirect=true][DPG BOM Compare tool]]
 
 ** STANDARDS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** [[https://lamresearch.sharepoint.com/:x:/r/sites/SIP-eDMSTeam/_layouts/15/Doc.aspx?sourcedoc=%7B9e26294f-d321-4c75-997d-3cd616beb46c%7D&action=default&mobileredirect=true][Standard Lam Notes]]
 DDS70267.xlsm
 
 *** CAD MODELING
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://lamresearch.sharepoint.com/:w:/r/sites/SIP-eDMSTeam/_layouts/15/Doc.aspx?sourcedoc=%7B6e7c5f41-549c-4908-ab40-6d92b4d50aea%7D&action=default&mobileredirect=true][CAD70039.docx]]
 
 *** DRAFTING
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
+
+**** [[https://kmmatrix.fremont.lamrc.net/DViewerX?partnumber=15-397953-00&partrev=E][CHAMBER,PROCESS | CE! 15-397953-00]]
+Example of perfect GD&T drafting from Thanh, Jason, and Jeremy's old boss
 
 **** [[https://lamresearch.sharepoint.com/:p:/r/sites/DPGEngineering-DPGWiki/_layouts/15/Doc.aspx?sourcedoc=%7B6E7C9329-82D1-4874-A285-F75AAEC48679%7D&file=DPG_Mechanical%20Drawing%20Review%20-%20Common%20Issues.pptx&action=edit&mobileredirect=true][DPG_Mechanical Drawing Review - Common Issues.pptx]]
 
 **** [[https://lamresearch.sharepoint.com/sites/DPGEngineering-DPGWiki/SitePages//Drawing%20Review%20(DQC).aspx][DPG Engineering-DPG Wiki - Drawing Review (DQC)]]
-
-**** [[https://lamresearch-my.sharepoint.com/personal/logan_alexander_lamresearch_com/_layouts/15/Doc.aspx?sourcedoc={75474994-bf69-4e22-95e6-c082eaa135ad}&action=edit&wd=target%282.%20AREAS%2FMECHANICAL%20ENGINEERING.one%7Ca4f796ee-5d66-405c-b52f-ada93430286c%2FDrawing%20Checklist%7C20a92ccf-a885-4808-aba9-d7cbe853c649%2F%29&wdorigin=NavigationUrl][Logan @ Lam Research]]
 
 **** [[https://lamresearch.sharepoint.com/:w:/r/sites/SIP-eDMSTeam/_layouts/15/Doc.aspx?sourcedoc=%7Bc60b8bb2-8bf5-4e1d-bd09-f12d935c262b%7D&action=default&mobileredirect=true][DPG70329.docx]]
 
 **** [[https://sharepoint.lamrc.net/dept/EPG/Eng/NPI/BKM_Community/ETCH_10112.pdf#search=ETCH%5F10112][Mechanical Drafting handbook]]
 
 *** FMEA template
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://lamresearch.sharepoint.com/:x:/r/sites/SIP-eDMSTeam/_layouts/15/Doc.aspx?sourcedoc=%7BF43D7697-D549-48D7-AA05-0482FB644576%7D&file=REL71612.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1][REL71612.xlsx]]
 
@@ -669,13 +568,13 @@ DDS70267.xlsm
 **** [[https://lamresearch.sharepoint.com/sites/DPGEngineering-DPGWiki/SitePages/Innovation%20Design%20Engineering%20Authorities%20(iDEA).aspx][DPG Engineering-DPG Wiki - Innovation Design Engineering Authorities (iDEA)]]
 
 *** Packaging BKM
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://kmmatrix.fremont.lamrc.net/DViewerX?partnumber=202-017186-001&partrev=D][PROC,PKNG MEDIA SELECTION MATRIX 202-017186-001]]
 
 ** SUPPLIERS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** [[https://sharepoint.lamrc.net/dept/GSCM/SourcingMatrix/SitePages/Home.aspx][Sourcing Matrix - Home]]
 
@@ -689,6 +588,9 @@ DDS70267.xlsm
 *** [[https://www.loom.com/looms/videos][Library | Loom]]
 
 ** WISHLIST
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** [[https://giftful.com/loganalexander2][Giftful]]
 
@@ -698,14 +600,8 @@ DDS70267.xlsm
   :END:
 
 ** FIVERR
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 *** Milk Jug Holder Project - Fiverr
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://www.mcmaster.com/9683K28/][Birch Rod, 36" Long, 1-3/4" Diameter | McMaster-Carr]]
 
@@ -724,38 +620,20 @@ DDS70267.xlsm
 **** [[https://www.mcmaster.com/4015A21/][Weather-Resistant Draw Latch, Zinc-Plated-Steel Strike Plate, 14-5/8" Long x 1-7/8" Wide | McMaster-Carr]]
 
 *** MINI FRIDGE PROJECT
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** Miniature chiller unit
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 ***** [[https://www.coowor.com/p/20190731153903140G6GKAJ.htm;jsessionid=CD251BDEDB9DD0A3330D3C08420A8F22][12v 24v mini refrigerator cooling unit with miniature refrigeration compressor - Coowor.com]]
 
 ** OSREVENGE
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 *** Website
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://account.godaddy.com/products][Products]]
 
 ** AMAZON BUSINESS
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 *** Tools
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://app.meliopayments.com/orgs/1154429/bills?status=unpaid&sorting=payment.status,dueDate&start=0&limit=20][Melio]]
 
@@ -782,9 +660,6 @@ DDS70267.xlsm
 **** [[https://customers.refundsniper.com/][Refund Sniper]]
 
 *** Wholesale sites
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://www.bbcw.com/?target=register][BBCW]]
 
@@ -797,9 +672,6 @@ DDS70267.xlsm
 **** [[https://888lots.com/][Liquidation Sales, Wholesale Closeout Deals | 888 Lots]]
 
 *** AmazonFBA
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://app.inventorylab.com/settings/notifications][InventoryLab - Notifications]]
 
@@ -819,60 +691,3 @@ DDS70267.xlsm
 
 * 📝 Scratch
 Pages that you save without a Topic will be filed under Scratch
-
-* Aether GP Pneumatic routing
-
-** [[https://lamresearch-my.sharepoint.com/personal/deanna_leong_lamresearch_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fdeanna%5Fleong%5Flamresearch%5Fcom%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files%2F859%2DA21856%2D007%5FRevE%5FTexonOMS%5FMAIN2%2Epdf&parent=%2Fpersonal%2Fdeanna%5Fleong%5Flamresearch%5Fcom%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files&ga=1][Texon OMS number 2]]
-
-** [[https://lamresearch-my.sharepoint.com/personal/deanna_leong_lamresearch_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fdeanna%5Fleong%5Flamresearch%5Fcom%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files%2F859%2DA21856%2D007%5FRevE%5FTexonOMS%5FMAIN1%2Epdf&parent=%2Fpersonal%2Fdeanna%5Fleong%5Flamresearch%5Fcom%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files&ga=1][Texon OMS document]]
-
-* Computational modeling
-
-** [[https://www.comsol.com/product-download/6.2][Download COMSOL Multiphysics® simulation software and COMSOL Server™ here]]
-
-* Lam Manufacturing documentation
-
-** [[https://lamresearch.sharepoint.com/sites/PMPM/SOE%20%20Fremont/Forms/AllItems.aspx][PMPM - SOE - Fremont - All Documents]]
-for info on how all the products (Aether GP, Kiyo, GD, etc...) are manufactured
-
-* BACKPACKING
-
-** [[https://lighterpack.com/r/trqbd0][4 day gear list]]
-
-* Tabs for 3/4
-
-** [[https://www.bing.com/search?q=netbenefits&cvid=42e25d568f92485db1d886290af17e2c&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARAAGEAyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxAAGEAyBggIEAAYQDIHCAkQRRj8VdIBCDIxMTRqMGo0qAIAsAIA&FORM=ANAB01&PC=U531][netbenefits - Search]]
-
-** [[https://roadmap.sh/full-stack][Full Stack Developer Roadmap]]
-
-** [[https://cs.fyi/guide/git-cheatsheet][Git Cheatsheet - cs.fyi]]
-
-** [[https://nodejs.org/en][Node.js]]
-
-** [[https://nodejs.org/en][Node.js]]
-
-** [[https://www.bing.com/search?pglt=161&q=displaying+CAD+with+3js&cvid=eeca2435cd074a6ca84478a47890e9eb&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgcIBRBFGPxV0gEINjk1OWowajGoAgCwAgA&FORM=ANNAB1&PC=U531&ntref=1][displaying CAD with 3js - Search]]
-
-** [[https://cadexchanger.com/blog/how-to-load-3d-cad-data-into-three-js/][How To Load 3D CAD Data Into Three.js | CAD Exchanger]]
-
-** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/720-B24002-010/A][Part 720-B24002-010:A]]
-
-** [[https://www.bing.com/search?pglt=161&q=running+scripts+is+disabled+on+this+system&cvid=0c0ffe41b9e9402e987bfbfeb4cd3652&gs_lcrp=EgZjaHJvbWUqBggAEAAYQDIGCAAQABhAMgYIARBFGDkyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxAAGEAyBggIEAAYQDIHCAkQRRj8VdIBCDI5NTdqMGoxqAIAsAIA&FORM=ANNAB1&PC=U531][running scripts is disabled on this system - Search]]
-
-** [[https://stackoverflow.com/questions/64633727/how-to-fix-running-scripts-is-disabled-on-this-system][powershell - How to fix "running scripts is disabled on this system"? - Stack Overflow]]
-
-** [[https://www.bing.com/search?pglt=161&q=node%3Ainternal%2Fmodules%2Fcjs%2Floader%3A1147+throw+err&cvid=5436ae0d3e3746bd9441abd87f519fde&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg6MgcIAhBFGPxV0gEHODM5ajBqMagCALACAA&FORM=ANNAB1&PC=U531][node:internal/modules/cjs/loader:1147 throw err - Search]]
-
-** [[https://stackoverflow.com/questions/75205873/error-nodeinternal-modules-cjs-loader1056-throw-err][node.js - Error "node:internal/modules/cjs/loader:1056 throw err;" - Stack Overflow]]
-
-** [[https://messages.google.com/web/conversations/1193][Messages for web]]
-
-** [[https://www.bing.com/search?pglt=161&q=Cannot+find+module+%27workshopper-adventure%2Fadventure%27&cvid=220f4b4b7dae4e208270e64636ebe136&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg9MgcIAhBFGPxV0gEHNTU5ajBqMagCALACAA&FORM=ANNAB1&PC=U531&ntref=1][Cannot find module 'workshopper-adventure/adventure' - Search]]
-
-** [[https://stackoverflow.com/questions/59753150/how-to-fix-nodejs-error-cannot-find-module][node.js - How to fix nodejs Error Cannot find module - Stack Overflow]]
-
-** [[https://braintool.org/versions/0.9.9/app/][BrainTool Topic Manager]]
-
-** [[https://www.bing.com/search?q=braintool&qs=n&form=QBRE&sp=-1&lq=0&pq=braintool&sc=9-9&sk=&cvid=FBDB049D725340BE8276C4FA6C8E55EB&ghsh=0&ghacc=0&ghpl=][braintool - Search]]
-
-** [[https://braintool.org/][Go beyond Bookmarks with BrainTool, the online Topic Manager | BrainTool - Beyond Bookmarks]]
