@@ -1,4 +1,16 @@
-#+PROPERTY: BTVersion 478
+#+PROPERTY: BTVersion 484
+* Filling and Emptying TCU chillers
+
+** [[https://lamresearch-my.sharepoint.com/personal/phat_huynh_lamresearch_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fphat%5Fhuynh%5Flamresearch%5Fcom%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files%2F4094916A%20%2D%20Operating%20Manual%20MPX%2D45FG%20%5FPM2%20GD%20chiller%2Epdf&parent=%2Fpersonal%2Fphat%5Fhuynh%5Flamresearch%5Fcom%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files&ga=1][OneDrive]]
+
+* Juneau interconnect diagram
+
+** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/224-B51287-001/A][Part 224-B51287-001:A]]
+
+* In-situ plasma resources
+
+** [[https://lamresearch-my.sharepoint.com/:x:/p/yohan_seepersad/ERFRM1f8cg9LpEoTP745qDQBSiWXXBiHs1QCq8fAoKkG9A?e=DKcjH1&CID=18C0FE7E-69EC-423E-A466-C34557BA9E85&wdLOR=cAF42C16A-0910-4B36-8E51-7178EB9682F3][In Situ Testing - Rosetta Stone.xlsx]]
+
 * PROJECTS
   :PROPERTIES:
   :VISIBILITY: folded
