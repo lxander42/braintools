@@ -1,22 +1,14 @@
-#+PROPERTY: BTVersion 484
-* Filling and Emptying TCU chillers
-
-** [[https://lamresearch-my.sharepoint.com/personal/phat_huynh_lamresearch_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fphat%5Fhuynh%5Flamresearch%5Fcom%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files%2F4094916A%20%2D%20Operating%20Manual%20MPX%2D45FG%20%5FPM2%20GD%20chiller%2Epdf&parent=%2Fpersonal%2Fphat%5Fhuynh%5Flamresearch%5Fcom%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files&ga=1][OneDrive]]
-
-* Juneau interconnect diagram
-
-** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/224-B51287-001/A][Part 224-B51287-001:A]]
-
-* In-situ plasma resources
-
-** [[https://lamresearch-my.sharepoint.com/:x:/p/yohan_seepersad/ERFRM1f8cg9LpEoTP745qDQBSiWXXBiHs1QCq8fAoKkG9A?e=DKcjH1&CID=18C0FE7E-69EC-423E-A466-C34557BA9E85&wdLOR=cAF42C16A-0910-4B36-8E51-7178EB9682F3][In Situ Testing - Rosetta Stone.xlsx]]
-
+#+PROPERTY: BTVersion 590
+#+PROPERTY: BTId E1HnUcH7CNOR5pWT39e18vIZuhD3
 * PROJECTS
   :PROPERTIES:
   :VISIBILITY: folded
   :END:
 
 ** Switching PKM to obsidian
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** Tasks
 
@@ -36,10 +28,17 @@ for use on mobile syncing notes
 ***** [[https://www.youtube.com/watch?v=nJ660t5ku9A][(8) Rethinking MY PKM: How I Organize Everything In Obsidian - YouTube]]
 
 ** PPL95 - COOLING STATION
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** [[https://lamresearch.sharepoint.com/:x:/r/sites/ATD-PDR-AetherTeam/_layouts/15/Doc.aspx?sourcedoc=%7B956E22EC-5C60-4A7A-9743-CB691A513A77%7D&file=Juneau_Transient_Drafting%20List.xlsx&wdLOR=c8F650D4A-C0DD-4E31-A1FB-0A279EA2B7C7&action=default&mobileredirect=true][Juneau_Transient_Drafting List.xlsx]]
 
 *** [[https://lamresearch.sharepoint.com/sites/Aether_Hardware_Team/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=cd7K5c&ovuser=918079db%2Dc902%2D4e29%2Db22c%2D9764410d0375%2CLogan%2EAlexander%40lamresearch%2Ecom&OR=Teams%2DHL&CT=1716993450734&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNDA0MTEyMjMxNSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&CID=5b6f2da1%2D30c1%2D5000%2Da57c%2D56fd5dc75240&cidOR=SPO&FolderCTID=0x012000007C68C671AA1B4585A90B30F2CACBF1&id=%2Fsites%2FAether%5FHardware%5FTeam%2FShared%20Documents%2FHardware%20Engineering%2FJUNEAU%20DRAWING%20CHECK][JUNEAU DRAWING CHECK - Patrick's list of part drawings]]
+
+*** Juneau P&ID (or PID)
+
+**** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/251-B65892-001/B?objectId=34064.31666.22742.31385][Part 251-B65892-001:B]]
 
 *** Juneau BOM work
 
@@ -61,7 +60,11 @@ for use on mobile syncing notes
 
 **** TODO Put in modeling report request for ICS baseline pumping
 
-*** DESIGN WORKSPACE
+*** Juneau interconnect diagram
+
+**** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/224-B51287-001/A][Part 224-B51287-001:A]]
+
+*** Juneau iPLM Design Workspace
 
 **** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/LRC+Design+Workspace/DW-011121/-?objectId=34064.31666.58107.43360][Design Workspace DW-011121:-]]
 
@@ -73,13 +76,28 @@ for use on mobile syncing notes
 
 **** [[https://lamresearch-my.sharepoint.com/:p:/p/deepesh_gupta/EcDQqGyP66hFtanAcc38ix4BhyVtnPQ3hApIPdR45tPImg?email=Logan.Alexander%40lamresearch.com&e=4%3AYBWw9J&fromShare=true&at=9&CID=314A556A-6744-45CF-9672-72EF723FF11D&wdLOR=cE6A29B35-656B-4FFC-8BB8-578E29E4F33E][MDL0001268_alignment_11-16-23.pptx]]
 
+*** Filling and Emptying TCU chillers
+
+**** [[https://lamresearch-my.sharepoint.com/personal/phat_huynh_lamresearch_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fphat%5Fhuynh%5Flamresearch%5Fcom%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files%2F4094916A%20%2D%20Operating%20Manual%20MPX%2D45FG%20%5FPM2%20GD%20chiller%2Epdf&parent=%2Fpersonal%2Fphat%5Fhuynh%5Flamresearch%5Fcom%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files&ga=1][OneDrive]]
+
 *** foreline design guidelines
 
 **** [[https://lamresearch-my.sharepoint.com/:p:/p/mahesh_shimoga/ETObLEpXqgFFtjJHTn74qHcBvsDvP6QnpiHRy9_8frZGcw?email=Logan.Alexander%40lamresearch.com&e=4%3AcpLQJl&fromShare=true&at=9&CID=E969BEC1-623F-480E-BCAE-280383BE50B3&wdLOR=c59D07F3D-4921-43A5-8CE5-09D4CD417ADD][Foreline Design guidelines - Degas modules.pptx]]
 
 ** PPL31 - Insitu Plasma
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
-*** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/LRC+Design+Workspace/DW-008205/-][Design Workspace DW-008205:-]]
+*** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/LRC+Design+Workspace/DW-008205/-][In-situ Plasma Design workspace]]
+
+*** In-situ plasma resources
+
+**** [[https://lamresearch-my.sharepoint.com/:x:/p/yohan_seepersad/ERFRM1f8cg9LpEoTP745qDQBSiWXXBiHs1QCq8fAoKkG9A?e=DKcjH1&CID=18C0FE7E-69EC-423E-A466-C34557BA9E85&wdLOR=cAF42C16A-0910-4B36-8E51-7178EB9682F3][In Situ Testing - Rosetta Stone.xlsx]]
+
+*** New sensor tree bracket fit checking
+
+**** [[https://lamresearch-my.sharepoint.com/:p:/p/patrick_hamel/EcO_9Ega9xtNt03-Ftygl6YBgp593O9IXdaNdWup6-PpTw][monomoter tree bracket.pptx]]
 
 *** TASKS
 
@@ -131,11 +149,10 @@ for use on mobile syncing notes
 
 ****** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Change+Action/CA-0308582/-?objectId=34064.31666.46187.4942][Change Action CA-0308582:-]]
 
-*** New sensor tree bracket fit checking
-
-**** [[https://lamresearch-my.sharepoint.com/:p:/p/patrick_hamel/EcO_9Ega9xtNt03-Ftygl6YBgp593O9IXdaNdWup6-PpTw][monomoter tree bracket.pptx]]
-
 ** Aether GP Pneumatic routing
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 *** [[https://lamresearch-my.sharepoint.com/personal/deanna_leong_lamresearch_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fdeanna%5Fleong%5Flamresearch%5Fcom%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files%2F859%2DA21856%2D007%5FRevE%5FTexonOMS%5FMAIN2%2Epdf&parent=%2Fpersonal%2Fdeanna%5Fleong%5Flamresearch%5Fcom%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files&ga=1][Texon OMS number 2]]
 
@@ -293,9 +310,6 @@ TRADING
 *** [[https://www.tradingview.com/screener/][Stock Screener: Search and Filter Stocks — TradingView]]
 
 * RESOURCES
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 ** AETHER LINKS
   :PROPERTIES:
@@ -303,9 +317,6 @@ TRADING
   :END:
 
 *** Aether CAD assembly management program - bi-weekly status report
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://lamresearch.sharepoint.com/:x:/r/sites/AetherLightTeam/_layouts/15/Doc.aspx?sourcedoc=%7BE41B7657-EF39-40C3-BB42-474B8FBED165%7D&file=Aether%20CAMP%20Projects%20-%20Biweekly%20status%20report.xlsx&wdLOR=cD922744C-466B-455B-BBEB-C959536DBC93&fromShare=true&action=default&mobileredirect=true][Aether CAMP Projects - Biweekly status report.xlsx]]
 
@@ -384,9 +395,15 @@ Converting from a copied excel/CSV range to markdown table
 *** [[https://sharepoint.lamrc.net/dept/EPG/Eng/default.aspx][Home - Etch Engineering]]
 
 ** LAM LINKS
+
+*** Lam Quest - ChatGPT internal Lam tool
   :PROPERTIES:
   :VISIBILITY: folded
   :END:
+
+**** [[https://dash.lamresearch.com/quest-plus/][Quest+]]
+
+*** [[https://thepoint.lamrc.net/dept/EngPortal/Pages/Databases_and_Tools_v2.aspx][Engineering databases and tools]]
 
 *** Lam Manufacturing documentation
   :PROPERTIES:
@@ -397,8 +414,6 @@ Converting from a copied excel/CSV range to markdown table
 
 **** [[https://lamresearch.sharepoint.com/sites/PMPM/SOE%20%20Fremont/Forms/AllItems.aspx][PMPM - SOE - Fremont - All Documents]]
 for info on how all the products (Aether GP, Kiyo, GD, etc...) are manufactured
-
-*** [[https://thepoint.lamrc.net/dept/EngPortal/Pages/Databases_and_Tools_v2.aspx][Engineering databases and tools]]
 
 *** [[https://lamresearch.sharepoint.com/sites/ThePoint/SitePages/index.aspx][The point - New page]]
 
@@ -449,6 +464,12 @@ for info on how all the products (Aether GP, Kiyo, GD, etc...) are manufactured
   :VISIBILITY: folded
   :END:
 
+*** Sheet Metal Fabrication quick turn - send cut sent
+
+**** [[https://sendcutsend.com/][SendCutSend: Custom Sheet Metal Fabrication]]
+
+*** [[https://apps.powerapps.com/play/e/7b81d53e-762e-4084-83c7-425d31b78fc1/a/dcc4f16d-de3d-420e-9be2-880887c8d3fe?tenantId=918079db-c902-4e29-b22c-9764410d0375][VirtualWarehouse - Power Apps]]
+
 *** [[https://apps.powerapps.com/play/e/7b81d53e-762e-4084-83c7-425d31b78fc1/a/98e8af26-65a3-45b9-a311-1cb00da7d776?tenantId=918079db-c902-4e29-b22c-9764410d0375][EngineeringRequestForm - Power Apps]]
 
 *** Requestor parts delivery request
@@ -456,8 +477,6 @@ for info on how all the products (Aether GP, Kiyo, GD, etc...) are manufactured
 **** [[https://lamresearch.quickbase.com/db/btc26twus?a=nwr][GLO Performance - Add Request]]
 
 *** [[https://lamresearch-my.sharepoint.com/:x:/r/personal/logan_alexander_lamresearch_com/_layouts/15/Doc.aspx?sourcedoc=%7B2CCE02B6-222D-42F4-8184-906346E80E8F%7D&file=EngineeringControlDocumentV0.5.xlsm&nav=MTVfe0M0REMwNTI1LUEwOEYtNDJBMi1BRDQ1LUREOTVGODBDRDA0Rn0&action=default&mobileredirect=true][EngineeringControlDocumentV0.5.xlsm]]
-
-*** [[https://apps.powerapps.com/play/e/7b81d53e-762e-4084-83c7-425d31b78fc1/a/dcc4f16d-de3d-420e-9be2-880887c8d3fe?tenantId=918079db-c902-4e29-b22c-9764410d0375][VirtualWarehouse - Power Apps]]
 
 *** [[https://parts-lamrc.visium.io/administration/items/3a76d8a6-14d4-4428-aeb5-bca3b714f671][VISIUM - Asset management and tracking]]
 
@@ -501,7 +520,7 @@ for info on how all the products (Aether GP, Kiyo, GD, etc...) are manufactured
 
 *** morning organization
 
-**** [[https://mail.google.com/mail/u/0/#inbox][Inbox (37) - loganpalexander@gmail.com - Gmail]]
+**** [[https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJQLZBPcrSbWFgkNRmJbSNflX][Video appointment reminder for Thursday, September 26th - loganpalexander@gmail.com - Gmail]]
 
 **** [[https://calendar.google.com/calendar/u/0/r][Google Calendar - Week of October 15, 2023]]
 
@@ -605,6 +624,22 @@ Example of perfect GD&T drafting from Thanh, Jason, and Jeremy's old boss
   :END:
 
 *** [[https://giftful.com/loganalexander2][Giftful]]
+
+** WEBSITE TOOLS
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+*** tinywow PDF tools/converter
+
+**** [[https://tinywow.com/][Free AI Writing, PDF, Image, and other Online Tools - TinyWow]]
+
+* Lam Engineering databases and tools
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+** [[https://lamresearch.sharepoint.com/sites/pgm03/SitePages/databases-and-tools.aspx][Databases and Tools]]
 
 * ARCHIVE
   :PROPERTIES:
