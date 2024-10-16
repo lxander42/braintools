@@ -310,6 +310,9 @@ TRADING
 *** [[https://www.tradingview.com/screener/][Stock Screener: Search and Filter Stocks — TradingView]]
 
 * RESOURCES
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
 
 ** AETHER LINKS
   :PROPERTIES:
@@ -395,20 +398,17 @@ Converting from a copied excel/CSV range to markdown table
 *** [[https://sharepoint.lamrc.net/dept/EPG/Eng/default.aspx][Home - Etch Engineering]]
 
 ** LAM LINKS
-
-*** Lam Quest - ChatGPT internal Lam tool
   :PROPERTIES:
   :VISIBILITY: folded
   :END:
+
+*** Lam Quest - ChatGPT internal Lam tool
 
 **** [[https://dash.lamresearch.com/quest-plus/][Quest+]]
 
 *** [[https://thepoint.lamrc.net/dept/EngPortal/Pages/Databases_and_Tools_v2.aspx][Engineering databases and tools]]
 
 *** Lam Manufacturing documentation
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://lamresearch.sharepoint.com/sites/PMPM/SOE%20%20Fremont/Forms/A%20to%20Z%20sort.aspx?e=5%3A550cb158935b42bd85ee3e2e64ce7278&sharingv2=true&fromShare=true&at=9&cid=7a0e8063%2Dd3e4%2D415b%2D917f%2D7705e09875b9&FolderCTID=0x0120003CF0860E4640044D85D102CD5D7F4402&id=%2Fsites%2FPMPM%2FSOE%20%20Fremont%2FAether%20GP&viewid=e978310c%2D3c0e%2D4d84%2Dad0c%2Dd8af2d9aff9b][PMPM - Aether GP - A to Z sort]]
 
@@ -418,9 +418,6 @@ for info on how all the products (Aether GP, Kiyo, GD, etc...) are manufactured
 *** [[https://lamresearch.sharepoint.com/sites/ThePoint/SitePages/index.aspx][The point - New page]]
 
 *** IDF - Invention Disclosure form patent applications
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 **** [[https://login.appcoll.com/LoginNew.aspx][AppColl]]
 
@@ -460,9 +457,6 @@ for info on how all the products (Aether GP, Kiyo, GD, etc...) are manufactured
 **** [[https://iplmprd.fremont.lamrc.net/3dspace/goto/o/Part/224-A19277-710/C][Part 224-A19277-710:C]]
 
 ** PART ORDERING AND LOGISTICS
-  :PROPERTIES:
-  :VISIBILITY: folded
-  :END:
 
 *** Sheet Metal Fabrication quick turn - send cut sent
 
